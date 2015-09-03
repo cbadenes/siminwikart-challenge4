@@ -1,0 +1,17 @@
+#!/bin/bash
+mkdir wikipedia
+cd wikipedia
+wget "http://www.sparsity-technologies.com/downloads/WikipediaDump/articles_ids.tar.gz"
+tar -zxvf articles_ids.tar.gz
+wget "http://www.sparsity-technologies.com/downloads/WikipediaDump/articles_links.tar.gz"
+tar -zxvf articles_links.tar.gz
+wget "http://www.sparsity-technologies.com/downloads/WikipediaDump/article_body.tar.gz"
+tar -zxvf article_body.tar.gz
+wget "http://www.sparsity-technologies.com/downloads/WikipediaDump/articles_redirects.tar.gz"
+tar -zxvf articles_redirects.tar.gz
+wget "http://www.sparsity-technologies.com/downloads/WikipediaDump/categories_ids.tar.gz"
+tar -zxvf categories_ids.tar.gz
+wget "http://www.sparsity-technologies.com/downloads/WikipediaDump/article_category.tar.gz"
+tar -zxvf article_category.tar.gz
+wget "http://www.sparsity-technologies.com/downloads/WikipediaDump/categories_relations.tar.gz"
+tar -zxvf categories_relations.tar.gz
