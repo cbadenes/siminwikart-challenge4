@@ -40,11 +40,11 @@ object CreateTopicModel {
     LDASettings.setBeta(1.1);
     LDASettings.setMaxIterations(200);
 
-    val file = new File("model")
+    val file = new File("text/model")
     if (file.exists) FileUtils.cleanDirectory(file)
 
     val input: RDD[(String,String)]  = sc.textFile("text/wikipedia/articles_body.csv").
-      map(x=>x.split("\",\"")).map(x=>(x(0)+"\"","\""+x(1)))
+      map(x=>x.split("\",\"")).filter(x=>x.size>1).map(x=>(x(0)+"\"","\""+x(1)))
 
     val author: Author  = Author("oeg.es/edbt/author/000001","Wiki","Pedia")
 
