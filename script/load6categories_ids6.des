@@ -1,0 +1,11 @@
+use gdb WIKIPEDIA6 into './data/wikipedia6.gdb'
+
+load nodes './data/database/categories_ids6.csv'
+    locale 'en_US.utf8'
+    columns category_id, category_name
+    into Category
+    fields terminated ','
+    from 1
+    mode rows
+    log off
+
