@@ -35,17 +35,20 @@ object CreateTopicModel {
     val start = System.currentTimeMillis
 
     // LDA Settings
-    LDASettings.setTopics(3);
+    LDASettings.setTopics(10);
     LDASettings.setAlpha(6.1);
     LDASettings.setBeta(1.1);
     LDASettings.setMaxIterations(200);
 
+    val file = new File("model")
+    if (file.exists) FileUtils.cleanDirectory(file)
 
-    val input: RDD[(String,String)]  = sc.textFile("wikipedia/sample_body.csv").
+    val input: RDD[(String,String)]  = sc.textFile("text/wikipedia/articles_body.csv").
       map(x=>x.split("\",\"")).map(x=>(x(0)+"\"","\""+x(1)))
 
     val author: Author  = Author("oeg.es/edbt/author/000001","Wiki","Pedia")
 
+    // Regular Resources
     val regularResources : RDD[RegularResource] = input.map{case x=>
       val name = x._1.replace("\"","")
       RegularResource(
@@ -57,44 +60,20 @@ object CreateTopicModel {
 
     // Conceptual Resources
     println("creating conceptual resources..")
-    val conceptualResources = regularResources.map(ConceptualResource(_))
+    val conceptualResources : RDD[ConceptualResource] = regularResources.map(ConceptualResource(_))
 
     // Conceptual Space
     println("creating a conceptual space..")
-    val conceptualSpace = new ConceptsSpace(conceptualResources)
+    val conceptualSpace : ConceptsSpace = new ConceptsSpace(conceptualResources)
 
     println("creating the topics space ..")
     val topicSpace: TopicsSpace = new TopicsSpace(conceptualSpace)
 
-    // Print Topic Details
-    println("reading semantical resources..")
-    val semanticResources       = topicSpace.topicalResources;
+    println("reading semantic resources..")
+    val semanticResources : RDD[TopicalResource] = topicSpace.topicalResources;
 
-    val matrix: RDD[(TopicalResource, Iterable[(TopicalResource, TopicalResource, Double)])] = semanticResources.cartesian(semanticResources).map{case(sr1,sr2)=>(sr1,sr2,TopicsSimilarity(sr1.topics,sr2.topics))}.groupBy(_._1)
-
-    val resourceSize = conceptualResources.count
-    val matrixSize = matrix.count
-    println(s"Resource Size: $resourceSize and Matrix Size: $matrixSize")
-
-    val similarities = matrix.
-      flatMap(x=>x._2).
-      map(x=>(x._1.conceptualResource.resource.url,x._2.conceptualResource.resource.url,x._3)).cache()
-
-    val file = new File("output")
-
-    if (file.exists) FileUtils.cleanDirectory(file)
-
-    // Create 'corpus_sim_lda.csv' file
-    similarities.map(x=>x._1+","+x._2+","+x._3).saveAsTextFile("output/corpus_sim_lda")
-
-
-    // Distribution of topics by documents
-    val resourcesMap: Map[Long, ConceptualResource] = conceptualSpace.conceptualResourcesMap.collectAsMap;
-
-    val topicDistribution : RDD[(ConceptualResource, Integer)] = topicSpace.model.ldaModel.topicDistributions.map{case (id,v) => (resourcesMap.getOrElse(id,new ConceptualResource(new RegularResource("","",new Metadata("","",Seq.empty),Seq.empty,Seq.empty))),HigherValue(v.toArray))}
-
-    // Create 'corpus_sim_lda.csv' file
-    topicDistribution.map(x=>x._1.resource.url+","+x._2).saveAsTextFile("output/corpus_topic")
+    println("saving semantic resources..")
+    semanticResources.saveAsObjectFile("text/model/lda-sr")
 
     // Distribution of words by topics
     val topics: Array[(Array[Int], Array[Double])] = topicSpace.model.ldaModel.describeTopics()
@@ -102,7 +81,7 @@ object CreateTopicModel {
     val wordsOfTopics : Array[Array[String]] = topics.map(x=>x._1.map(y=>conceptualSpace.vocabulary.wordsByKeyMap.getOrElse(y,"-error-")))
 
     // Create 'topics_words.csv' file
-    sc.parallelize(wordsOfTopics).map(x=>x.toList.slice(0,20) mkString(",") ).saveAsTextFile("output/topics_words")
+    sc.parallelize(wordsOfTopics).map(x=>x.toList.slice(0,20) mkString(",") ).saveAsTextFile("text/model/lda-topics")
 
     val end = System.currentTimeMillis
 
