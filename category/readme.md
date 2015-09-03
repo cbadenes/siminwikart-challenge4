@@ -3,7 +3,9 @@ Category based similarity
 Script that takes as input a list of article ids:
 
 "16281554"
+
 "40408235"
+
 "16732960"
 
 And an article-category file like http://www.sparsity-technologies.com/downloads/WikipediaDump/article_category.tar.gz with two columns: article_id_from,category_id_to.
