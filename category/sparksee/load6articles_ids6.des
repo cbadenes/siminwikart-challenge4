@@ -1,0 +1,10 @@
+use gdb WIKIPEDIA6 into './wikipedia6.gdb'
+
+load nodes 'C:/Users/dgarijo/Desktop/EDBT_SummerSchool/proyecto/articles_ids.csv'
+    locale 'en_US.utf8'
+    columns article_id, article_title
+    into Article
+    fields terminated ','
+    from 1
+    mode rows
+    log off

@@ -1,0 +1,13 @@
+create gdb WIKIPEDIA6 into './wikipedia6.gdb'
+
+create node Article ( article_id long unique, article_title string indexed)
+
+create edge links from Article to Article (  ) materialize neighbors
+
+create edge redirects from Article to Article (  ) materialize neighbors
+
+create node Category ( category_id long unique, category_name string indexed)
+
+create edge hasCategory from Article to Category (  ) materialize neighbors
+
+create edge subclass from Category to Category (  ) materialize neighbors

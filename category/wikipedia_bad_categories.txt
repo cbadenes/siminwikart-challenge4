@@ -1,0 +1,1352 @@
+28981612,Wikipedia articles in need of updating from May 2009
+40665610,Wikipedia articles containing buzzwords from October 2013
+38071643,Wikipedia articles needing page number citations from January 2013
+28771278,Wikipedia articles that are too technical from May 2009
+38547985,Wikipedia articles with BIBSYS identifiers
+34543570,Wikipedia articles needing style editing from February 2012
+30689618,Wikipedia articles needing style editing from February 2011
+30689634,Wikipedia articles in need of updating from February 2011
+39257103,Wikipedia articles in need of updating from May 2013
+31342064,Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with no article parameter
+21195362,Wikipedia articles incorporating text from the Dictionary of National Biography
+28658797,Wikipedia articles needing style editing from September 2010
+28990366,Wikipedia articles in need of updating from July 2009
+28629164,File-Class Wikipedia articles
+30867086,All Wikipedia articles in need of updating
+31855506,Wikipedia articles that are too technical from May 2008
+40270349,Wikipedia articles incorporating text from public domain works of the United States Department of Labor
+34690642,Wikipedia articles that use South African English
+20492420,Wikipedia articles with plot summary needing attention from December 2008
+41506399,Wikipedia articles needing clarification from January 2014
+28824881,Wikipedia articles needing page number citations from January 2008
+28815719,Wikipedia articles needing page number citations from February 2009
+28453342,Wikipedia articles with possible conflicts of interest from May 2009
+44259428,Wikipedia articles in need of updating from November 2014
+41227663,Wikipedia articles with possible conflicts of interest from December 2013
+35273485,Wikipedia articles needing reorganization from April 2012
+12203851,Wikipedia articles containing placeholders
+22900654,Wikipedia articles needing factual verification from May 2009
+38968423,Wikipedia articles needing style editing from April 2013
+23822723,Wikipedia articles needing style editing from August 2009
+36052851,Wikipedia articles with plot summary needing attention from July 2012
+28771252,Wikipedia articles that are too technical from August 2009
+40434302,Wikipedia articles for improvement
+24557329,Wikipedia articles needing context from October 2008
+42069183,Wikipedia articles needing copy edit from March 2014
+14673597,Wikipedia articles needing style editing from October 2007
+29801179,Wikipedia articles with plot summary needing attention from December 2010
+37788273,Wikipedia articles containing buzzwords from December 2012
+38345678,Wikipedia articles needing editing for flag use
+38013918,Wikipedia articles incorporating text from works of the General Services Administration
+35675641,Wikipedia articles needing style editing from May 2012
+34690652,Wikipedia articles that use Pakistani English
+43437224,Wikipedia articles with possible conflicts of interest from August 2014
+34239896,Wikipedia articles with possible conflicts of interest from January 2012
+28816309,Wikipedia articles needing page number citations from June 2008
+39815730,Wikipedia articles that are too technical from July 2013
+39815668,Wikipedia articles needing page number citations from July 2013
+11328521,Mid-importance Wikipedia articles
+41497514,Wikipedia articles with faulty authority control identifiers (SELIBR)
+39507967,Wikipedia articles incorporating a citation from The American Cyclopaedia with no wstitle or title parameter
+11637519,Wikipedia articles incorporating text from the Nuttall Encyclopedia
+28980605,Wikipedia articles in need of updating from January 2010
+26357369,Wikipedia articles incorporating text from the United States Geological Survey
+21411003,Wikipedia articles needing clarification from October 2007
+21411010,Wikipedia articles needing clarification from May 2007
+42623132,Wikipedia articles needing style editing from May 2014
+35273479,Wikipedia articles needing clarification from April 2012
+39534321,Wikipedia articles in need of updating from June 2013
+46274379,Wikipedia articles needing editing for flag use from April 2015
+43356418,Wikipedia articles incorporating a citation from SBDEL
+19123590,Wikipedia articles with plot summary needing attention from September 2008
+32074662,Wikipedia articles needing time reference citations from June 2011
+40029134,Wikipedia articles incorporating a citation from EB9 with an unnamed parameter
+33479592,Wikipedia articles without plot summaries from February 2011
+43177300,Wikipedia articles containing buzzwords from July 2014
+31628922,Wikipedia articles needing page number citations from May 2011
+24175025,Wikipedia articles needing rewrite from September 2009
+34239284,Wikipedia articles with authority control information
+22900621,Wikipedia articles needing factual verification from June 2008
+31628892,Wikipedia articles needing factual verification from May 2011
+10774077,Wikipedia articles with missing information
+38968344,Wikipedia articles needing rewrite from April 2013
+34973418,Wikipedia articles incorporating an LRPP-MP template with one unnamed parameter
+33608517,Wikipedia articles that are too technical from November 2011
+32250751,Wikipedia articles needing factual verification from July 2011
+32920611,Wikipedia articles needing style editing from September 2011
+41227532,Wikipedia articles needing style editing from December 2013
+29626309,Wikipedia articles needing reorganization from July 2009
+29113526,Wikipedia articles needing factual verification
+43702100,Wikipedia articles needing clarification from September 2014
+43212342,Wikipedia articles needing cleanup after translation from Serbian
+43701945,Wikipedia articles needing factual verification from September 2014
+41794400,Wikipedia articles needing style editing from February 2014
+32581000,Wikipedia articles needing reorganization from August 2011
+28814926,Wikipedia articles needing page number citations from March 2010
+37767691,Wikipedia articles that may have off-topic paragraphs
+11637536,Wikipedia articles incorporating text from the Jargon File
+28815051,Wikipedia articles needing page number citations from October 2008
+28793603,Monthly clean up category (Wikipedia articles needing rewrite) counter
+11328608,Wikipedia articles by quality
+28629188,Category-Class Wikipedia articles
+38547732,Wikipedia articles with ORCID identifiers
+41794311,Wikipedia articles in need of updating from February 2014
+43337916,Wikipedia articles incorporating a citation from Collier's Encyclopedia with an unnamed parameter
+40287975,Wikipedia articles incorporating text from public domain works of the US Department of Labor
+42355870,Wikipedia articles with citations needing edition from April 2014
+28453455,Wikipedia articles with possible conflicts of interest from March 2008
+28984655,Wikipedia articles in need of updating from November 2008
+38379143,Wikipedia articles needing factual verification from February 2013
+39534440,Wikipedia articles needing context from June 2013
+40937634,Wikipedia articles needing rewrite from November 2013
+44546964,Wikipedia articles needing context from December 2014
+38968552,Wikipedia articles containing buzzwords from April 2013
+46274303,Wikipedia articles needing factual verification from April 2015
+36590824,Wikipedia articles without plot summaries from August 2012
+46274280,Wikipedia articles needing style editing from April 2015
+29626319,Wikipedia articles needing reorganization from February 2010
+43101521,Wikipedia articles needing cleanup after translation from unknown language
+33479599,Wikipedia articles without plot summaries from October 2011
+44259416,Wikipedia articles needing style editing from November 2014
+36052859,Wikipedia articles that are too technical from July 2012
+24913043,Wikipedia articles needing factual verification from November 2009
+22900651,Wikipedia articles needing factual verification from June 2007
+33280850,Wikipedia articles that are too technical from October 2011
+11638046,Wikipedia articles incorporating text from MIL-STD-188
+34543561,Wikipedia articles needing context from February 2012
+38071529,All Wikipedia articles written in Hong Kong English
+30689609,Wikipedia articles needing clarification from February 2011
+31931760,Wikipedia articles needing context from June 2011
+36052793,Wikipedia articles needing reorganization from July 2012
+24557333,Wikipedia articles needing context from January 2009
+32289622,Wikipedia articles containing buzzwords from August 2009
+34912782,Wikipedia articles needing reorganization from March 2012
+37788063,Wikipedia articles without plot summaries from December 2012
+28990364,Wikipedia articles in need of updating from February 2009
+34690617,Wikipedia articles that use New Zealand English
+31855520,Wikipedia articles that are too technical from February 2009
+29015745,Wikipedia articles in need of updating from September 2008
+14537913,Wikipedia articles with plot summary needing attention from December 2007
+22743937,Wikipedia articles needing rewrite from February 2009
+28816306,Wikipedia articles needing page number citations from April 2009
+25254718,Wikipedia articles with plot summary needing attention from December 2009
+38379055,Wikipedia articles needing rewrite from February 2013
+29008601,Wikipedia articles needing cleanup
+28980599,Wikipedia articles in need of updating from August 2010
+43177367,Wikipedia articles needing context from July 2014
+41546433,Wikipedia articles incorporating a citation from the 1922 Encyclopaedia Britannica without Wikisource reference
+31840215,Wikipedia articles needing time reference citations
+45527743,Wikipedia articles needing style editing from March 2015
+22742005,Wikipedia articles needing rewrite from February 2008
+33920689,Wikipedia articles needing context from December 2011
+31024528,Wikipedia articles needing rewrite from March 2011
+22742021,Wikipedia articles needing rewrite from January 2009
+42355686,Wikipedia articles needing factual verification from April 2014
+33393680,Wikipedia articles containing buzzwords from October 2011
+31024544,Wikipedia articles needing page number citations from March 2011
+40404798,Wikipedia articles needing page number citations from September 2013
+35273476,Wikipedia articles containing buzzwords from April 2012
+42069204,Wikipedia articles containing buzzwords from March 2014
+24913010,Wikipedia articles needing clarification from November 2009
+40029069,Wikipedia articles incorporating text from EB9 with a vb parameter
+38968375,Wikipedia articles without plot summaries from April 2013
+44403357,All Wikipedia articles written in American English
+24557343,Wikipedia articles needing context from September 2009
+34912776,Wikipedia articles needing clarification from March 2012
+33607346,Wikipedia articles with possible conflicts of interest from November 2011
+34912792,Wikipedia articles with possible conflicts of interest from March 2012
+33930898,Wikipedia articles with plot summary needing attention from December 2011
+29801177,Wikipedia articles needing style editing from December 2010
+37166102,Wikipedia articles needing clarification from October 2012
+33930901,Wikipedia articles needing rewrite from December 2011
+43702117,Wikipedia articles with possible conflicts of interest from September 2014
+32580990,Wikipedia articles needing clarification from August 2011
+28217238,Wikipedia articles needing context from August 2010
+34239894,Wikipedia articles that are too technical from January 2012
+28816316,Wikipedia articles needing page number citations from March 2008
+38391190,Wikipedia articles with plot summary needing attention from February 2013
+37788166,Wikipedia articles that are too technical from December 2012
+40006807,Wikipedia articles needing cleanup after translation from Italian
+22259816,Wikipedia articles needing clarification from April 2009
+39815659,Wikipedia articles needing factual verification from July 2013
+41794394,Wikipedia articles needing copy edit from February 2014
+31931767,Wikipedia articles with plot summary needing attention from June 2011
+43437117,Wikipedia articles needing clarification from August 2014
+39128166,Wikipedia articles incorporating a citation from the Encyclopedia Americana without a Wikisource reference
+29427732,Wikipedia articles needing factual verification from November 2010
+31931790,Wikipedia articles in need of updating from June 2011
+28629215,Template-Class Wikipedia articles
+37788077,Wikipedia articles needing reorganization from December 2012
+21406036,Wikipedia articles needing clarification from August 2008
+34900164,Wikipedia articles incorporating a Leigh Rayment's Peerage Pages template
+29431442,Wikipedia articles needing page number citations from November 2010
+28793561,Monthly clean up category (Wikipedia articles with possible conflicts of interest) counter
+31855497,Wikipedia articles that are too technical from December 2007
+42355828,Wikipedia articles in need of updating from April 2014
+41506259,Wikipedia articles containing buzzwords from January 2014
+28452027,Wikipedia articles with possible conflicts of interest from September 2008
+36878890,Wikipedia articles needing reorganization from September 2012
+42355798,Wikipedia articles needing reorganization from April 2014
+17714682,Wikipedia articles with plot summary needing attention from June 2008
+43983629,Wikipedia articles needing rewrite from October 2014
+40665609,Wikipedia articles needing clarification from October 2013
+22474404,Wikipedia articles incorporating text from the National Institute of Standards and Technology
+38029139,Wikipedia articles incorporating information from the index volume of the DNB with no Wikisource DNB entry
+45262418,Wikipedia articles needing time reference citations from February 2015
+35988831,Wikipedia articles needing style editing from June 2012
+29020180,Wikipedia articles needing page number citations from October 2010
+11328720,GA-Class Wikipedia articles
+36052856,Wikipedia articles needing clarification from July 2012
+29626277,Wikipedia articles needing reorganization from January 2008
+43702061,Wikipedia articles needing reorganization from September 2014
+28771273,Wikipedia articles that are too technical from May 2010
+18675043,Wikipedia articles with plot summary needing attention from August 2008
+25624321,Wikipedia articles needing factual verification from January 2010
+39046744,Wikipedia articles incorporating text from the United States Department of State
+23824930,Wikipedia articles incorporating text from the Federal Aviation Administration
+21344542,Wikipedia articles with plot summary needing attention from February 2009
+14831902,Wikipedia articles incorporating text from Citizendium
+20492442,Wikipedia articles needing style editing from December 2008
+41506331,Wikipedia articles needing reorganization from January 2014
+43437061,Wikipedia articles in need of updating from August 2014
+36575664,Wikipedia articles incorporating an MLCC template as an external link
+41794272,Wikipedia articles containing buzzwords from February 2014
+44896694,Wikipedia articles in need of updating from January 2015
+31855501,Wikipedia articles that are too technical from March 2008
+45527872,Wikipedia articles needing reorganization from March 2015
+43337841,Wikipedia articles incorporating text from Collier's Encyclopedia
+40115923,Wikipedia articles needing clarification from August 2013
+40404891,Wikipedia articles needing style editing from September 2013
+28453380,Wikipedia articles with possible conflicts of interest from June 2009
+43177348,Wikipedia articles needing reorganization from July 2014
+7773122,Wikipedia articles incorporating text from the Dictionary of American Naval Fighting Ships
+44259407,Wikipedia articles needing copy edit from November 2014
+19547447,Wikipedia articles with plot summary needing attention from October 2008
+28771267,Wikipedia articles that are too technical from June 2010
+38029113,Wikipedia articles incorporating information from the Dictionary of National Biography Index and Epitome
+22900619,Wikipedia articles needing factual verification from April 2008
+23021464,Wikipedia articles needing clarification from June 2009
+22900626,Wikipedia articles needing factual verification from August 2008
+45262339,Wikipedia articles in need of updating from February 2015
+42069201,Wikipedia articles needing rewrite from March 2014
+38071543,Wikipedia articles needing clarification from January 2013
+12740044,Wikipedia articles with possible conflicts of interest
+16028624,Wikipedia articles needing style editing from March 2008
+34912773,Wikipedia articles containing buzzwords from March 2012
+22743994,Wikipedia articles needing rewrite from March 2008
+29801174,Wikipedia articles needing factual verification from December 2010
+39257062,Wikipedia articles needing factual verification from May 2013
+14016288,Wikipedia articles with plot summary needing attention from November 2007
+39815699,Wikipedia articles with possible conflicts of interest from July 2013
+23023545,Wikipedia articles needing factual verification from June 2009
+37166053,Wikipedia articles needing rewrite from October 2012
+33720364,Wikipedia articles incorporating text from Diseases of Swine (8th edition)
+34239891,Wikipedia articles needing style editing from January 2012
+34992994,Wikipedia articles incorporating an LRPP-Bt template with two unnamed parameters
+45588291,Wikipedia articles in need of updating from January 2007
+33603738,Wikipedia articles needing factual verification from November 2011
+33603745,Wikipedia articles needing clarification from November 2011
+44546913,Wikipedia articles needing page number citations from December 2014
+28815724,Wikipedia articles needing page number citations from January 2009
+41809765,Wikipedia articles incorporating a citation from LarousseXIXe
+28451820,Wikipedia articles with possible conflicts of interest from August 2010
+28980600,Wikipedia articles in need of updating from July 2010
+41828475,Wikipedia articles incorporating text from the Dictionary of American Naval Aviation Squadrons
+28815678,Wikipedia articles needing page number citations from June 2010
+31652137,All Wikipedia articles written in Pakistani English
+40937744,Wikipedia articles needing style editing from November 2013
+42915031,Wikipedia articles containing buzzwords from June 2014
+31855508,Wikipedia articles that are too technical from June 2008
+42623249,Wikipedia articles needing reorganization from May 2014
+24524004,Wikipedia articles needing factual verification from October 2009
+14673625,Wikipedia articles needing style editing from December 2007
+27900440,Wikipedia articles needing clarification from July 2010
+40115937,Wikipedia articles needing reorganization from August 2013
+24557341,Wikipedia articles needing context from July 2009
+34912790,Wikipedia articles with plot summary needing attention from March 2012
+28824883,Wikipedia articles needing page number citations from December 2007
+32920596,Wikipedia articles in need of updating from September 2011
+31445546,All Wikipedia articles written in Indian English
+35675630,Wikipedia articles needing context from May 2012
+10913779,Wikipedia articles incorporating text from Appleton's Cyclopedia
+33608505,Wikipedia articles containing buzzwords from November 2011
+28217252,Wikipedia articles with plot summary needing attention from August 2010
+41794431,Wikipedia articles needing rewrite from February 2014
+16680022,Wikipedia articles with plot summary needing attention from April 2008
+40034097,Wikipedia articles incorporating a citation from the Dictionary of American Biography
+35988782,Wikipedia articles needing page number citations from June 2012
+38379247,Wikipedia articles needing style editing from February 2013
+31340565,Wikipedia articles with plot summary needing attention from April 2011
+27162976,Wikipedia articles needing style editing from May 2010
+31341974,Wikipedia articles incorporating a citation from the 1911 EncyclopÃ¦dia Britannica
+28814921,Wikipedia articles needing page number citations from August 2010
+21406034,Wikipedia articles needing clarification from July 2008
+39815584,Wikipedia articles needing reorganization from July 2013
+29869435,Monthly clean up category (Wikipedia articles needing reorganization) counter
+44896530,Wikipedia articles without plot summaries from January 2015
+22472321,Wikipedia articles incorporating text from the National Park Service
+42355819,Wikipedia articles with plot summary needing attention from April 2014
+42623275,Wikipedia articles with plot summary needing attention from May 2014
+31855495,Wikipedia articles that are too technical from November 2007
+37499927,Wikipedia articles needing rewrite from November 2012
+27900434,Wikipedia articles needing style editing from July 2010
+46274318,Wikipedia articles with unclear gender from April 2015
+22741983,Wikipedia articles needing rewrite from November 2008
+40404711,Wikipedia articles in need of updating from September 2013
+34688797,Wikipedia articles by national variety of English
+36878983,Wikipedia articles without plot summaries from September 2012
+40665623,Wikipedia articles in need of updating from October 2013
+43101697,Wikipedia articles needing cleanup after translation from Danish
+41227521,Wikipedia articles needing copy edit from December 2013
+35988822,Wikipedia articles with plot summary needing attention from June 2012
+11637959,Wikipedia articles incorporating text from Comixpedia
+34543576,Wikipedia articles with possible conflicts of interest from February 2012
+20020456,Wikipedia articles with plot summary needing attention from November 2008
+20497160,Wikipedia articles incorporating text from the National Cancer Institute Dictionary of Cancer Terms
+22900623,Wikipedia articles needing factual verification from July 2008
+11637709,Wikipedia articles incorporating text from General Biography
+37788269,Wikipedia articles in need of updating from December 2012
+37176648,Wikipedia articles with plot summary needing attention from October 2012
+40006917,Wikipedia articles needing cleanup after translation from Norwegian
+43702000,Wikipedia articles needing style editing from September 2014
+35675637,Wikipedia articles needing reorganization from May 2012
+32580995,Wikipedia articles needing page number citations from August 2011
+20497101,Wikipedia articles incorporating text from the United States National Library of Medicine
+22743975,Wikipedia articles needing rewrite from July 2008
+41506467,Wikipedia articles needing rewrite from January 2014
+21410999,Wikipedia articles needing clarification from November 2007
+28452387,Wikipedia articles with possible conflicts of interest from October 2008
+41506217,Wikipedia articles needing copy edit from January 2014
+23127447,Wikipedia articles incorporating text from the 1913 Webster's Dictionary
+39946442,Wikipedia articles incorporating a citation from the New International Encyclopedia with an unnamed parameter
+45631745,Draft-Class Wikipedia articles
+30246009,Wikipedia articles needing factual verification from January 2011
+28793559,Monthly clean up category (Wikipedia articles needing clarification) counter
+21411006,Wikipedia articles needing clarification from August 2007
+44896537,Wikipedia articles that are too technical from January 2015
+43177362,Wikipedia articles needing page number citations from July 2014
+35273498,Wikipedia articles without plot summaries from April 2012
+28980137,Wikipedia articles in need of updating from March 2010
+39534294,Wikipedia articles without plot summaries from June 2013
+40404777,Wikipedia articles needing factual verification from September 2013
+30204001,Wikipedia articles needing balance
+38547981,Wikipedia articles with BNF identifiers
+22900617,Wikipedia articles needing factual verification from March 2008
+22900633,Wikipedia articles needing factual verification from September 2007
+38661707,Wikipedia articles needing style editing from March 2013
+16045171,Wikipedia articles with plot summary needing attention from March 2008
+38661532,Wikipedia articles needing page number citations from March 2013
+22581368,Wikipedia articles needing romanization
+37166117,Wikipedia articles in need of updating from October 2012
+1331299,Wikipedia articles that are too technical
+35675647,Wikipedia articles with plot summary needing attention from May 2012
+32250747,Wikipedia articles needing context from July 2011
+37500085,Wikipedia articles needing reorganization from November 2012
+32920607,Wikipedia articles needing rewrite from September 2011
+39256935,Wikipedia articles without plot summaries from May 2013
+45262310,Wikipedia articles needing style editing from February 2015
+35988829,Wikipedia articles with possible conflicts of interest from June 2012
+36052732,Wikipedia articles with possible conflicts of interest from July 2012
+34690622,Wikipedia articles that use Scottish English
+29015743,Wikipedia articles in need of updating from June 2008
+31342146,Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with an unnamed parameter
+43420878,Wikipedia articles with LNB identifiers
+34239882,Wikipedia articles needing context from January 2012
+34689545,Wikipedia articles that use Canadian English
+28816311,Wikipedia articles needing page number citations from April 2008
+25624326,Wikipedia articles with plot summary needing attention from January 2010
+29043931,Wikipedia articles incorporating text from Enciclopedia Libre Universal en EspaÃ±ol
+41506379,Wikipedia articles with plot summary needing attention from January 2014
+28453747,Wikipedia articles with possible conflicts of interest from April 2007
+40005347,Wikipedia articles needing cleanup after translation from Russian
+28452361,Wikipedia articles with possible conflicts of interest from August 2007
+42915065,Wikipedia articles needing style editing from June 2014
+21411016,Wikipedia articles needing clarification from April 2007
+30642069,Wikipedia articles needing page number citations from February 2008
+45527732,Wikipedia articles needing a junction list from March 2015
+6830076,Wikipedia articles incorporating text from the 1911 EncyclopÃ¦dia Britannica
+40006713,Wikipedia articles needing cleanup after translation from Spanish
+39226640,Wikipedia articles with faulty authority control identifiers (VIAF)
+14979318,Wikipedia articles needing style editing from January 2008
+32289137,Monthly clean up category (Wikipedia articles containing buzzwords) counter
+31628898,Wikipedia articles needing style editing from May 2011
+24924222,Wikipedia articles incorporating text from the US Occupational Safety and Health Administration
+43177283,Wikipedia articles without plot summaries from July 2014
+33609089,Wikipedia articles needing context from November 2011
+44396014,Wikipedia articles written in a national variety of English
+28769187,Wikipedia articles that are too technical from April 2010
+40404751,Wikipedia articles with plot summary needing attention from September 2013
+31628901,Wikipedia articles with plot summary needing attention from May 2011
+40115928,Wikipedia articles with possible conflicts of interest from August 2013
+24557332,Wikipedia articles needing context from February 2009
+33607328,Wikipedia articles needing style editing from November 2011
+40115951,Wikipedia articles in need of updating from August 2013
+41227538,Wikipedia articles containing buzzwords from December 2013
+43983594,Wikipedia articles containing buzzwords from October 2014
+35013386,Wikipedia articles incorporating an LRPP-MP-IE template as a citation
+38071653,Wikipedia articles containing buzzwords from January 2013
+38547988,Wikipedia articles with ULAN identifiers
+28814955,Wikipedia articles needing page number citations from January 2010
+34543557,Wikipedia articles in need of updating from February 2012
+35988773,Wikipedia articles needing context from June 2012
+38071610,Wikipedia articles needing context from January 2013
+34543573,Wikipedia articles that are too technical from February 2012
+38165217,Wikipedia articles incorporating a citation from the Schaff-Herzog with Wikisource reference
+31516055,Wikipedia articles incorporating a citation from the Schaff-Herzog with no title parameter
+1577554,Wikipedia articles in need of updating
+31340556,Wikipedia articles needing clarification from April 2011
+40139671,Wikipedia articles incorporating citation to the NSRW
+31340563,Wikipedia articles needing rewrite from April 2011
+32289625,Wikipedia articles containing buzzwords from March 2010
+43437092,Wikipedia articles needing style editing from August 2014
+36813575,Wikipedia articles needing context from September 2012
+21406041,Wikipedia articles needing clarification from November 2008
+28982248,Wikipedia articles in need of updating from December 2009
+31855516,Wikipedia articles that are too technical from December 2008
+13053855,Wikipedia articles with plot summary needing attention from September 2007
+29626598,Wikipedia articles needing reorganization from May 2009
+43087687,Wikipedia articles with unclear gender from June 2014
+31549228,Wikipedia articles incorporating a citation from the DGRG without Wikisource reference
+21754736,Wikipedia articles needing style editing from March 2009
+36855942,Wikipedia articles with faulty authority control identifiers (LCCN)
+36878974,Wikipedia articles with plot summary needing attention from September 2012
+26014238,Wikipedia articles needing style editing from February 2010
+41308108,Wikipedia articles with NLA identifiers
+39534380,Wikipedia articles with plot summary needing attention from June 2013
+30246013,Wikipedia articles with plot summary needing attention from January 2011
+41227657,Wikipedia articles needing rewrite from December 2013
+40947872,Wikipedia articles needing copy edit from November 2013
+29626305,Wikipedia articles needing reorganization from April 2009
+45262416,Wikipedia articles without plot summaries from February 2015
+29626312,Wikipedia articles needing reorganization from September 2009
+38021052,Wikipedia articles incorporating text from the United States Coast Guard
+33479585,Wikipedia articles without plot summaries from June 2010
+36052861,Wikipedia articles needing style editing from July 2012
+42870237,Wikipedia articles incorporating text from the White House website
+22900614,Wikipedia articles needing factual verification from December 2007
+34912788,Wikipedia articles that are too technical from March 2012
+11638016,Wikipedia articles incorporating text from Camerapedia
+37176646,Wikipedia articles with possible conflicts of interest from October 2012
+35675628,Wikipedia articles in need of updating from May 2012
+30689611,Wikipedia articles needing context from February 2011
+31341923,Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica without Wikisource reference
+32920604,Wikipedia articles needing page number citations from September 2011
+44846967,Wikipedia articles with RKDartists identifiers
+11328722,B-Class Wikipedia articles
+28452569,Wikipedia articles with possible conflicts of interest from September 2009
+28452378,Wikipedia articles with possible conflicts of interest from March 2009
+25624307,Wikipedia articles needing clarification from January 2010
+45527802,Wikipedia articles with possible conflicts of interest from March 2015
+41794347,Wikipedia articles with plot summary needing attention from February 2014
+12929698,Wikipedia articles incorporating text from Shetlopedia
+45527756,Wikipedia articles needing clarification from March 2015
+31549399,Wikipedia articles incorporating text from the DGRG
+28980622,Wikipedia articles in need of updating from March 2008
+45527772,Wikipedia articles with unclear gender from March 2015
+29827507,Wikipedia articles in need of updating from December 2010
+30246007,Wikipedia articles needing context from January 2011
+44896528,Wikipedia articles needing reorganization from January 2015
+21411020,Wikipedia articles needing clarification from January 2007
+42623142,Wikipedia articles with possible conflicts of interest from May 2014
+35273489,Wikipedia articles needing time reference citations from April 2012
+33479595,Wikipedia articles without plot summaries from May 2011
+27900439,Wikipedia articles needing context from July 2010
+26774357,Wikipedia articles with plot summary needing attention from April 2010
+31024530,Wikipedia articles needing style editing from March 2011
+21386938,Wikipedia articles needing clarification from June 2008
+40665733,Wikipedia articles needing context from October 2013
+41227624,Wikipedia articles needing clarification from December 2013
+41227631,Wikipedia articles needing page number citations from December 2013
+10203947,Wikipedia articles with incorrect tenses
+43983657,Wikipedia articles needing context from October 2014
+45262344,Wikipedia articles with unclear gender from February 2015
+1331352,Wikipedia articles needing rewrite
+38547913,Wikipedia articles with LCCN identifiers
+42069319,Wikipedia articles needing context from March 2014
+45262298,Wikipedia articles with plot summary needing attention from February 2015
+39256942,Wikipedia articles that are too technical from May 2013
+9330174,Wikipedia articles contravening the Manual of Style for lists of works
+45262262,Wikipedia articles with citations needing edition from February 2015
+35988797,Wikipedia articles without plot summaries from June 2012
+40139741,Wikipedia articles incorporating citation to the NSRW with an unnamed parameter
+23023550,Wikipedia articles needing rewrite from June 2009
+28816302,Wikipedia articles needing page number citations from August 2009
+18129090,Wikipedia articles needing style editing from July 2008
+32581010,Wikipedia articles with plot summary needing attention from August 2011
+28815038,Wikipedia articles needing page number citations from May 2010
+43407611,Wikipedia articles needing cleanup after translation from Ukrainian
+28453738,Wikipedia articles with possible conflicts of interest from June 2008
+28452352,Wikipedia articles with possible conflicts of interest from February 2010
+28453761,Wikipedia articles with possible conflicts of interest from October 2007
+43437103,Wikipedia articles containing buzzwords from August 2014
+44896729,Wikipedia articles needing time reference citations from January 2015
+41794314,Wikipedia articles needing page number citations from February 2014
+27045150,Wikipedia articles incorporating text from Bryan's Dictionary of Painters and Engravers
+43437057,Wikipedia articles needing copy edit from August 2014
+33268695,Wikipedia articles with possible conflicts of interest from October 2011
+42623238,Wikipedia articles needing rewrite from May 2014
+20758258,Unassessed Wikipedia articles
+42355830,Wikipedia articles containing buzzwords from April 2014
+21410977,Wikipedia articles needing clarification from May 2008
+41546469,Wikipedia articles incorporating a citation from the 1922 Encyclopaedia Britannica that includes an obsolete parameter
+42355768,Wikipedia articles needing page number citations from April 2014
+44546974,Wikipedia articles containing buzzwords from December 2014
+40404696,Wikipedia articles containing buzzwords from September 2013
+29626329,Wikipedia articles needing reorganization from July 2010
+42069302,Wikipedia articles needing reorganization from March 2014
+21402615,Wikipedia articles incorporating text from the Naval Vessel Register
+29626299,Wikipedia articles needing reorganization from January 2009
+38547979,Wikipedia articles with SELIBR identifiers
+28980174,Wikipedia articles in need of updating from April 2010
+28771279,Wikipedia articles that are too technical from April 2009
+41262147,Wikipedia articles with colour accessibility problems
+28814946,Wikipedia articles needing page number citations from September 2008
+22658821,Wikipedia articles incorporating text from the Centers for Disease Control and Prevention
+30689619,Wikipedia articles with plot summary needing attention from February 2011
+40028578,Wikipedia articles incorporating a citation from the Nuttall Encyclopedia
+45262390,Wikipedia articles needing a junction list from February 2015
+14673452,Wikipedia articles needing style editing from November 2007
+36052796,Wikipedia articles in need of updating from July 2012
+28658798,Wikipedia articles with plot summary needing attention from September 2010
+39465660,Wikipedia articles incorporating a citation from The American Cyclopaedia
+40006912,Wikipedia articles needing cleanup after translation from Bulgarian
+28772204,Wikipedia articles that are too technical from September 2008
+28815157,Wikipedia articles needing page number citations from February 2010
+33268689,Wikipedia articles needing context from October 2011
+26966255,Wikipedia articles incorporating text from Bullpen
+39128103,Wikipedia articles incorporating a citation from the Encyclopedia Americana with an unamed parameter
+12469844,Wikipedia articles with ASCII art
+44631432,Wikipedia articles needing page number citations from June 2007
+32920598,Wikipedia articles needing context from September 2011
+34690627,Wikipedia articles that use Hiberno-English
+28982255,Wikipedia articles in need of updating from October 2008
+36441734,Wikipedia articles incorporating text from kam.lt
+34239887,Wikipedia articles needing page number citations from January 2012
+40032236,Wikipedia articles incorporating a citation from the Cyclopaedia of American Biography
+34690597,Wikipedia articles that use Australian English
+45527819,Wikipedia articles needing factual verification from March 2015
+40727810,Wikipedia articles incorporating citation from the DNB
+45527835,Wikipedia articles needing copy edit from March 2015
+21579981,Wikipedia articles with content forks
+31136883,Wikipedia articles needing a junction list
+29586899,Wikipedia articles incorporating text from the New American Cyclopedia
+23455264,Wikipedia articles needing style editing from July 2009
+45527753,Wikipedia articles in need of updating from March 2015
+22742015,Wikipedia articles needing rewrite from June 2008
+28453350,Wikipedia articles with possible conflicts of interest from February 2009
+42355689,Wikipedia articles needing style editing from April 2014
+20021034,Wikipedia articles needing style editing from November 2008
+29626303,Wikipedia articles needing reorganization from March 2009
+35273486,Wikipedia articles needing rewrite from April 2012
+24524007,Wikipedia articles needing style editing from October 2009
+15707798,Wikipedia articles needing reorganization
+21756156,Wikipedia articles needing clarification from March 2009
+38968408,Wikipedia articles with possible conflicts of interest from April 2013
+23822740,Wikipedia articles with plot summary needing attention from August 2009
+45262384,Wikipedia articles needing reorganization from February 2015
+24557337,Wikipedia articles needing context from May 2009
+37166171,Wikipedia articles without plot summaries from October 2012
+34912779,Wikipedia articles needing factual verification from March 2012
+40665668,Wikipedia articles with plot summary needing attention from October 2013
+11638030,Wikipedia articles incorporating text from the Dictionary of Greek and Roman Antiquities
+45262341,Wikipedia articles with possible conflicts of interest from February 2015
+16892778,Wikipedia articles incorporating text from the Harpers Dictionary of Classical Antiquities
+28778229,Redirect-Class Wikipedia articles
+29197161,Wikipedia articles needing translation
+35675626,Wikipedia articles containing buzzwords from May 2012
+28217248,Wikipedia articles needing factual verification from August 2010
+30689504,Wikipedia articles that are too technical from February 2011
+28452567,Wikipedia articles with possible conflicts of interest from August 2009
+34543578,Wikipedia articles without plot summaries from February 2012
+28452392,Wikipedia articles with possible conflicts of interest from October 2009
+28980606,Wikipedia articles in need of updating from August 2009
+45527747,Wikipedia articles needing rewrite from March 2015
+29082679,Wikipedia articles in need of updating from February 2008
+21406046,Wikipedia articles needing clarification from January 2009
+30279785,Wikipedia articles needing reorganization from January 2011
+21411004,Wikipedia articles needing clarification from September 2007
+28793564,Monthly clean up category (Wikipedia articles needing copy edit) counter
+35273496,Wikipedia articles with possible conflicts of interest from April 2012
+29864795,Wikipedia articles needing reorganization from December 2010
+33458263,Wikipedia articles incorporating text from the Dictionnaire Bouillet
+37499955,Wikipedia articles needing page number citations from November 2012
+20331467,List-Class Wikipedia articles
+26774348,Wikipedia articles needing factual verification from April 2010
+31024521,Wikipedia articles needing clarification from March 2011
+38858791,Wikipedia articles which are legal bibliographies
+34695581,Wikipedia articles that use IUPAC spelling
+43177255,Wikipedia articles that are too technical from July 2014
+40116091,Wikipedia articles needing style editing from August 2013
+23455278,Wikipedia articles with plot summary needing attention from July 2009
+43983671,Wikipedia articles in need of updating from October 2014
+29801170,Wikipedia articles needing clarification from December 2010
+43983612,Wikipedia articles needing page number citations from October 2014
+28980139,Wikipedia articles in need of updating from June 2009
+43575234,Monthly clean up category (Wikipedia articles with unclear gender) counter
+28771276,Wikipedia articles that are too technical from March 2010
+28771283,Wikipedia articles that are too technical from March 2009
+32581001,Wikipedia articles needing rewrite from August 2011
+21313826,NA-Class Wikipedia articles
+28629235,Project-Class Wikipedia articles
+37788288,Wikipedia articles needing clarification from December 2012
+38204961,Wikipedia articles that use Singapore English
+30689616,Wikipedia articles needing rewrite from February 2011
+7697747,Wikipedia articles needing page number citations
+31855504,Wikipedia articles that are too technical from April 2008
+31855511,Wikipedia articles that are too technical from July 2008
+22741989,Wikipedia articles needing rewrite from August 2008
+46274363,Wikipedia articles needing reorganization from April 2015
+46274370,Wikipedia articles needing a junction list from April 2015
+43483603,Wikipedia articles needing cleanup after translation from Bosnian
+32074782,Monthly clean up category (Wikipedia articles needing time reference citations) counter
+40116042,Wikipedia articles needing context from August 2013
+40404894,Wikipedia articles that are too technical from September 2013
+45527793,Wikipedia articles containing buzzwords from March 2015
+21411018,Wikipedia articles needing clarification from March 2007
+28453308,Wikipedia articles with possible conflicts of interest from August 2008
+43177390,Wikipedia articles needing clarification from July 2014
+37494254,Wikipedia articles with an infobox request
+39902859,Wikipedia articles with faulty authority control identifiers (BPN)
+44259433,Wikipedia articles that are too technical from November 2014
+24913044,Wikipedia articles needing rewrite from November 2009
+38547977,Wikipedia articles with GND identifiers
+41227645,Wikipedia articles needing context from December 2013
+29427051,Wikipedia articles needing clarification from November 2010
+22900636,Wikipedia articles needing factual verification from July 2007
+29626300,Wikipedia articles needing reorganization from February 2009
+34605073,All Wikipedia articles written in New Zealand English
+43983540,Wikipedia articles needing factual verification from October 2014
+22900652,Wikipedia articles needing factual verification from March 2009
+37500127,Wikipedia articles that are too technical from November 2012
+37500143,Wikipedia articles containing buzzwords from November 2012
+32250759,Wikipedia articles with possible conflicts of interest from July 2011
+37798994,Wikipedia articles incorporating text from the City of Fremantle Interpretation Plaques and Panels Research Project
+36052794,Wikipedia articles without plot summaries from July 2012
+32920619,Wikipedia articles with plot summary needing attention from September 2011
+34912783,Wikipedia articles needing rewrite from March 2012
+33741993,Wikipedia articles incorporating text from the 1911 EncyclopÃ¦dia Britannica with an unnamed parameter
+28658796,Wikipedia articles needing clarification from September 2010
+36052728,Wikipedia articles containing buzzwords from July 2012
+34281288,Wikipedia articles with citations needing edition
+40006873,Wikipedia articles needing cleanup after translation from German
+31517180,Wikipedia articles incorporating text from the Schaff-Herzog
+34239878,Wikipedia articles needing clarification from January 2012
+34992988,Wikipedia articles incorporating an LRPP-Bt template with one unnamed parameter
+29834501,Wikipedia articles that are too technical from December 2010
+41794378,Wikipedia articles needing factual verification from February 2014
+32270203,Wikipedia articles needing reorganization from July 2011
+11637583,Wikipedia articles incorporating text from the New Georgia Encyclopedia
+44896605,Wikipedia articles containing buzzwords from January 2015
+41546450,Wikipedia articles incorporating a citation from the 1922 Encyclopaedia Britannica with Wikisource reference
+45527744,Wikipedia articles needing editing for flag use from March 2015
+22742006,Wikipedia articles needing rewrite from March 2009
+38968474,Wikipedia articles in need of updating from April 2013
+28453486,Wikipedia articles with possible conflicts of interest from November 2007
+39534303,Wikipedia articles needing reorganization from June 2013
+35273484,Wikipedia articles needing page number citations from April 2012
+44546818,Wikipedia articles needing style editing from December 2014
+38071800,Wikipedia articles with possible conflicts of interest from January 2013
+15499470,Wikipedia articles needing style editing from February 2008
+33479590,Wikipedia articles without plot summaries from November 2010
+24913011,Wikipedia articles needing context from November 2009
+31628904,Wikipedia articles with possible conflicts of interest from May 2011
+34912777,Wikipedia articles needing context from March 2012
+24557360,Wikipedia articles needing context from November 2008
+36590855,Wikipedia articles needing style editing from August 2012
+35675633,Wikipedia articles needing factual verification from May 2012
+45262286,Wikipedia articles that are too technical from February 2015
+34571701,Wikipedia articles incorporating text from the DGRBM
+33268700,Wikipedia articles needing page number citations from October 2011
+43290464,Wikipedia articles needing cleanup after translation from Swedish
+34992998,Wikipedia articles incorporating an LRPP-Bt template without an unnamed parameter
+12203465,Wikipedia articles with plot summary needing attention from July 2007
+36013834,Wikipedia articles incorporating text from the United States Attorneys' Manual
+38011026,Wikipedia articles incorporating text from the United States Air Force
+34543569,Wikipedia articles needing rewrite from February 2012
+31931768,Wikipedia articles with possible conflicts of interest from June 2011
+39508068,Wikipedia articles incorporating a citation from the Encyclopedia Americana with no wstitle or title parameter
+31340559,Wikipedia articles needing context from April 2011
+10792328,Wikipedia articles with style issues
+35900835,Wikipedia articles with Culture.si counterparts
+21406037,Wikipedia articles needing clarification from September 2008
+28453733,Wikipedia articles with possible conflicts of interest from July 2007
+21406044,Wikipedia articles needing clarification from December 2008
+25188342,FL-Class Wikipedia articles
+22259744,Wikipedia articles needing style editing from April 2009
+39815587,Wikipedia articles containing buzzwords from July 2013
+37503554,Wikipedia articles needing page number citations from October 2007
+28793562,Monthly clean up category (Wikipedia articles needing context) counter
+44580790,Wikipedia articles needing cleanup after translation from Urdu
+39534511,Wikipedia articles needing style editing from June 2013
+42623269,Wikipedia articles needing context from May 2014
+46274387,Wikipedia articles needing rewrite from April 2015
+31855498,Wikipedia articles that are too technical from January 2008
+40937705,Wikipedia articles needing context from November 2013
+44896678,Wikipedia articles needing context from January 2015
+39534290,Wikipedia articles with possible conflicts of interest from June 2013
+40937659,Wikipedia articles with plot summary needing attention from November 2013
+44259539,Wikipedia articles needing context from November 2014
+28453460,Wikipedia articles with possible conflicts of interest from December 2007
+44259555,Wikipedia articles with citations needing edition from November 2014
+28723254,Wikipedia articles incorporating text from the Department of Defense Dictionary of Military and Associated Terms
+33609091,Wikipedia articles in need of updating from November 2011
+43983662,Wikipedia articles with plot summary needing attention from October 2014
+36879079,Wikipedia articles needing factual verification from September 2012
+28453348,Wikipedia articles with possible conflicts of interest from November 2009
+31136700,Monthly clean up category (Wikipedia articles needing a junction list) counter
+33483433,Monthly clean up category (Wikipedia articles without plot summaries) counter
+43239768,Wikipedia articles incorporating text from the 1922 EncyclopÃ¦dia Britannica with an article parameter
+26426332,Wikipedia articles needing context from March 2010
+39257224,Wikipedia articles containing buzzwords from May 2013
+28981598,Wikipedia articles in need of updating from May 2010
+44403295,All Wikipedia articles written in British (Oxford) English
+43983557,Wikipedia articles with citations needing edition from October 2014
+29626324,Wikipedia articles needing reorganization from May 2010
+22900676,Wikipedia articles needing factual verification from August 2007
+42069235,Wikipedia articles without plot summaries from March 2014
+43290422,Wikipedia articles needing cleanup after translation from Malay
+28771258,Wikipedia articles that are too technical from September 2009
+29626294,Wikipedia articles needing reorganization from October 2008
+28658859,Wikipedia articles needing rewrite from September 2010
+27554018,Wikipedia articles needing rewrite from June 2010
+21758347,Wikipedia articles with plot summary needing attention from March 2009
+36052768,Wikipedia articles needing factual verification from July 2012
+36575649,Wikipedia articles incorporating an MLCC template
+17229808,Wikipedia articles with plot summary needing attention from May 2008
+28990362,Wikipedia articles in need of updating from December 2008
+33268668,Wikipedia articles with plot summary needing attention from October 2011
+28814852,Monthly clean up category (Wikipedia articles needing page number citations) counter
+31931637,Wikipedia articles that are too technical from June 2011
+35708354,Wikipedia articles incorporating a citation from the 1728 Cyclopaedia without an article title parameter
+39469520,Wikipedia articles incorporating a citation from EB9
+23023302,Wikipedia articles with plot summary needing attention from June 2009
+40115931,Wikipedia articles without plot summaries from August 2013
+25254716,Wikipedia articles needing rewrite from December 2009
+31747074,Disambig-Class Wikipedia articles
+21411009,Wikipedia articles needing clarification from June 2007
+42623154,Wikipedia articles that are too technical from May 2014
+34942819,Wikipedia articles incorporating an LRPP-MP template as an external link
+26014224,Wikipedia articles needing factual verification from February 2010
+38968455,Wikipedia articles needing factual verification from April 2013
+28815685,Wikipedia articles needing page number citations from November 2009
+35013382,Wikipedia articles incorporating an LRPP-MP-IE template as an external link
+29626288,Wikipedia articles needing reorganization from June 2008
+38968471,Wikipedia articles needing page number citations from April 2013
+39465906,Wikipedia articles incorporating text from The American Cyclopaedia
+22900627,Wikipedia articles needing factual verification from September 2008
+36590750,Wikipedia articles needing reorganization from August 2012
+22900643,Wikipedia articles needing factual verification from November 2008
+37166143,Wikipedia articles that are too technical from October 2012
+32250757,Wikipedia articles with plot summary needing attention from July 2011
+17351754,Wikipedia articles without coherent topic
+34571741,Wikipedia articles incorporating a citation from the DGRBM
+28768637,Wikipedia articles incorporating text from the index volume of the DNB with no Wikisource DNB entry
+28815155,Wikipedia articles needing page number citations from July 2010
+34690625,Wikipedia articles that use British English
+34239876,Wikipedia articles containing buzzwords from January 2012
+43420888,Wikipedia articles with NSK identifiers
+40006805,Wikipedia articles needing cleanup after translation from Portuguese
+43247189,Wikipedia articles with gameplay summary needing attention
+42915121,Wikipedia articles needing clarification from June 2014
+31671137,Wikipedia articles needing reorganization from May 2011
+28452364,Wikipedia articles with possible conflicts of interest from January 2009
+38658424,Wikipedia articles incorporating a citation from the DGRG
+11637590,Wikipedia articles incorporating text from PlanetMath
+28452380,Wikipedia articles with possible conflicts of interest from June 2010
+13519852,Wikipedia articles with plot summary needing attention from October 2007
+28769523,Wikipedia articles that are too technical from August 2008
+28980598,Wikipedia articles in need of updating from September 2010
+39128164,Wikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource reference
+28793595,Monthly clean up category (Wikipedia articles with plot summary needing attention) counter
+40937600,Wikipedia articles needing reorganization from November 2013
+20913407,Wikipedia articles needing style editing from January 2009
+28980601,Wikipedia articles in need of updating from June 2010
+25791345,Wikipedia articles incorporating text translated from the Biographisch woordenboek der Nederlanden
+39226643,Wikipedia articles with faulty authority control identifiers (ISNI)
+42623121,Wikipedia articles without plot summaries from May 2014
+24524005,Wikipedia articles needing rewrite from October 2009
+24174955,Wikipedia articles needing style editing from September 2009
+43177286,Wikipedia articles needing style editing from July 2014
+33479581,Wikipedia articles without plot summaries from February 2010
+40129561,Wikipedia articles rejected for Four awards
+31557004,Wikipedia articles incorporating a citation from the DGRG with Wikisource reference
+22472091,Wikipedia articles incorporating text from the Naval Historical Center
+44259543,Wikipedia articles with plot summary needing attention from November 2014
+32250783,Wikipedia articles in need of updating from July 2011
+43290498,Wikipedia articles needing cleanup after translation from Belarusian
+43101527,Wikipedia articles needing cleanup after translation from Hebrew
+38071702,Wikipedia articles needing factual verification from January 2013
+38968340,Wikipedia articles needing clarification from April 2013
+26426106,Wikipedia articles needing rewrite from March 2010
+40665607,Wikipedia articles needing reorganization from October 2013
+14078597,Wikipedia articles incorporating text from public domain works of the United States Government
+34973430,Wikipedia articles incorporating an LRPP-MP template with two unnamed parameters
+33961573,Wikipedia articles licensed under the GNU Free Document License
+34543567,Wikipedia articles needing page number citations from February 2012
+38013651,Wikipedia articles incorporating text from the United States Navy
+31340566,Wikipedia articles with possible conflicts of interest from April 2011
+32289628,Wikipedia articles containing buzzwords from August 2010
+38071590,Wikipedia articles that are too technical from January 2013
+27162977,Wikipedia articles with plot summary needing attention from May 2010
+28815040,Wikipedia articles needing page number citations from July 2009
+43824947,Wikipedia articles incorporating text from a publication that is now in the public domain
+29431441,Wikipedia articles that are too technical from November 2010
+39815585,Wikipedia articles needing clarification from July 2013
+28776170,Monthly clean up category (Wikipedia articles that are too technical) counter
+43437036,Wikipedia articles needing factual verification from August 2014
+41506274,Wikipedia articles without plot summaries from January 2014
+10444059,Wikipedia articles incorporating text from the Victoria Cross Reference
+39127908,Wikipedia articles incorporating text from Encyclopedia Americana
+46274319,Wikipedia articles needing page number citations from April 2015
+32328854,Wikipedia articles in need of updating from December 2007
+22741984,Wikipedia articles needing rewrite from December 2008
+28453339,Wikipedia articles with possible conflicts of interest from December 2008
+43983601,Wikipedia articles with possible conflicts of interest from October 2014
+34923715,Wikipedia articles incorporating an LRPP template with two unnamed parameters
+34905130,Wikipedia articles needing time reference citations from October 2011
+29626315,Wikipedia articles needing reorganization from November 2009
+29626331,Wikipedia articles needing reorganization from August 2010
+26014221,Wikipedia articles needing context from February 2010
+28815268,Wikipedia articles needing page number citations from December 2008
+38968436,Wikipedia articles with plot summary needing attention from April 2013
+37166167,Wikipedia articles needing page number citations from October 2012
+26387601,Wikipedia articles needing style editing from March 2010
+39257126,Wikipedia articles needing context from May 2013
+26966530,Wikipedia articles incorporating text from OrthodoxWiki
+35988879,Wikipedia articles needing clarification from June 2012
+36052766,Wikipedia articles needing context from July 2012
+30689621,Wikipedia articles with possible conflicts of interest from February 2011
+34690649,Wikipedia articles that use Philippine English
+37166078,Wikipedia articles needing reorganization from October 2012
+33268659,Wikipedia articles needing clarification from October 2011
+33268675,Wikipedia articles needing rewrite from October 2011
+11328518,Top-importance Wikipedia articles
+11328525,Unknown-importance Wikipedia articles
+44896643,Wikipedia articles needing rewrite from January 2015
+40937617,Wikipedia articles in need of updating from November 2013
+21410973,Wikipedia articles needing clarification from January 2008
+43263183,Wikipedia articles incorporating text from Popular Science Monthly
+44580650,Wikipedia articles needing cleanup after translation from Romanian
+38658405,Wikipedia articles incorporating a citation from the DCBL
+25254714,Wikipedia articles needing factual verification from December 2009
+45527782,Wikipedia articles with plot summary needing attention from March 2015
+21411007,Wikipedia articles needing clarification from July 2007
+42623129,Wikipedia articles needing factual verification from May 2014
+41546422,Wikipedia articles incorporating a citation from the 1922 Encyclopaedia Britannica with an unnamed parameter
+28453313,Wikipedia articles with possible conflicts of interest from April 2009
+33479589,Wikipedia articles without plot summaries from October 2010
+44259422,Wikipedia articles needing rewrite from November 2014
+38547982,Wikipedia articles with BPN identifiers
+34695584,Wikipedia articles that use Oxford spelling
+27554026,Wikipedia articles with plot summary needing attention from June 2010
+26966715,Wikipedia articles incorporating text from Aviation.ru
+1331339,Wikipedia articles needing copy edit
+1331346,Wikipedia articles needing clarification
+29832149,Wikipedia articles needing page number citations from December 2010
+20345711,NA-importance Wikipedia articles
+26774340,Wikipedia articles needing clarification from April 2010
+40665700,Wikipedia articles needing factual verification from October 2013
+37507167,Wikipedia articles with possible conflicts of interest from November 2012
+32250771,Wikipedia articles needing page number citations from July 2011
+38071696,Wikipedia articles without plot summaries from January 2013
+43290479,Wikipedia articles needing cleanup after translation from Finnish
+36590827,Wikipedia articles needing rewrite from August 2012
+39256899,Wikipedia articles needing clarification from May 2013
+11328719,A-Class Wikipedia articles
+31697192,Wikipedia articles incorporating text from the United States Marine Corps
+39257011,Wikipedia articles needing style editing from May 2013
+41810166,Wikipedia articles incorporating text from LarousseXIXe
+28217250,Wikipedia articles needing style editing from August 2010
+40006803,Wikipedia articles needing cleanup after translation from Albanian
+43437181,Wikipedia articles with plot summary needing attention from August 2014
+23676564,Wikipedia articles incorporating text from the United States Army Center of Military History
+31931763,Wikipedia articles needing factual verification from June 2011
+42915007,Wikipedia articles needing factual verification from June 2014
+23455389,Wikipedia articles needing clarification from July 2009
+28984668,Wikipedia articles in need of updating from April 2008
+31024550,Wikipedia articles in need of updating from March 2011
+45527894,Wikipedia articles needing time reference citations from March 2015
+28453491,Wikipedia articles with possible conflicts of interest from April 2008
+28991328,Wikipedia articles needing clarification from October 2010
+35273482,Wikipedia articles needing factual verification from April 2012
+41506248,Wikipedia articles needing style editing from January 2014
+39534246,Wikipedia articles that are too technical from June 2013
+27900432,Wikipedia articles with plot summary needing attention from July 2010
+44546968,Wikipedia articles with plot summary needing attention from December 2014
+44259550,Wikipedia articles containing buzzwords from November 2014
+38661599,Wikipedia articles needing factual verification from March 2013
+33608520,Wikipedia articles needing rewrite from November 2011
+43702077,Wikipedia articles needing context from September 2014
+39465736,Wikipedia articles incorporating a citation from The American Cyclopaedia without a Wikisource reference
+32477250,Wikipedia articles incorporating text from ARKive
+45262407,Wikipedia articles needing rewrite from February 2015
+26380744,Wikipedia articles needing clarification from March 2010
+35366680,Wikipedia articles incorporating a citation from the DGRBM with no wstitle or title parameter
+17714125,Wikipedia articles needing style editing from June 2008
+42072881,Wikipedia articles with the Wikia content template
+38071549,Wikipedia articles needing rewrite from January 2013
+30689629,Wikipedia articles needing page number citations from February 2011
+18129044,Wikipedia articles with plot summary needing attention from July 2008
+27162968,Wikipedia articles needing clarification from May 2010
+40006915,Wikipedia articles needing cleanup after translation from Slovenian
+11637730,Wikipedia articles incorporating text from the Great Soviet Encyclopedia
+33268702,Wikipedia articles in need of updating from October 2011
+34239897,Wikipedia articles without plot summaries from January 2012
+44896683,Wikipedia articles with plot summary needing attention from January 2015
+21410997,Wikipedia articles needing clarification from December 2007
+40937680,Wikipedia articles containing buzzwords from November 2013
+40115962,Wikipedia articles needing rewrite from August 2013
+32289303,Wikipedia articles containing buzzwords from October 2010
+38658452,Wikipedia articles incorporating text from the 1910 New Catholic Dictionary
+30266231,Wikipedia articles needing page number citations from January 2011
+22741975,Wikipedia articles needing rewrite from May 2009
+39534404,Wikipedia articles needing factual verification from June 2013
+46274287,Wikipedia articles needing copy edit from April 2015
+37499853,Wikipedia articles in need of updating from November 2012
+25254711,Wikipedia articles needing clarification from December 2009
+43177337,Wikipedia articles needing rewrite from July 2014
+40665776,Wikipedia articles needing style editing from October 2013
+29626306,Wikipedia articles needing reorganization from June 2009
+36590765,Wikipedia articles that are too technical from August 2012
+33479586,Wikipedia articles without plot summaries from July 2010
+23822734,Wikipedia articles needing rewrite from August 2009
+37166220,Wikipedia articles needing style editing from October 2012
+39224857,Wikipedia articles incorporating a citation from the Harpers Dictionary of Classical Antiquities
+31477640,Wikipedia articles incorporating a citation from the DCBL with Wikisource reference
+27554023,Wikipedia articles needing style editing from June 2010
+22900615,Wikipedia articles needing factual verification from January 2008
+11319541,Wikipedia articles incorporating text from the Scots Peerage
+45262328,Wikipedia articles needing clarification from February 2015
+39257094,Wikipedia articles needing page number citations from May 2013
+38661721,Wikipedia articles containing buzzwords from March 2013
+38071707,Wikipedia articles needing reorganization from January 2013
+35675629,Wikipedia articles needing clarification from May 2012
+32580987,Wikipedia articles containing buzzwords from August 2011
+36052773,Wikipedia articles needing page number citations from July 2012
+37500067,Wikipedia articles needing factual verification from November 2012
+22743967,Wikipedia articles needing rewrite from September 2008
+32920605,Wikipedia articles needing reorganization from September 2011
+22743983,Wikipedia articles needing rewrite from April 2008
+32920621,Wikipedia articles with possible conflicts of interest from September 2011
+37166092,Wikipedia articles needing factual verification from October 2012
+37788195,Wikipedia articles needing page number citations from December 2012
+30271815,Wikipedia articles that are too technical from January 2011
+34690604,Wikipedia articles that use American English
+34281290,Monthly clean up category (Wikipedia articles with citations needing edition) counter
+11328723,Start-Class Wikipedia articles
+40006797,Wikipedia articles needing cleanup after translation from French
+43420876,Wikipedia articles with BNE identifiers
+25624308,Wikipedia articles needing context from January 2010
+34900207,Wikipedia articles incorporating an LRPP template without an unnamed parameter
+43437146,Wikipedia articles that are too technical from August 2014
+31340587,Wikipedia articles in need of updating from April 2011
+21410971,Wikipedia articles needing clarification from February 2008
+28980616,Wikipedia articles in need of updating from April 2009
+31376676,Wikipedia articles needing reorganization from April 2011
+29431439,Wikipedia articles in need of updating from November 2010
+20913445,Wikipedia articles with plot summary needing attention from January 2009
+32007838,Wikipedia articles needing reorganization from June 2011
+38379226,Wikipedia articles with possible conflicts of interest from February 2013
+23411008,Wikipedia articles incorporating text from Citizendium needing updating
+46274399,Wikipedia articles with possible conflicts of interest from April 2015
+41546374,Wikipedia articles incorporating a citation from the 1922 Encyclopaedia Britannica with no article parameter
+33479596,Wikipedia articles without plot summaries from June 2011
+44259413,Wikipedia articles needing factual verification from November 2014
+33920676,Wikipedia articles needing clarification from December 2011
+28815690,Wikipedia articles needing page number citations from October 2009
+28984649,Wikipedia articles in need of updating from November 2009
+31024531,Wikipedia articles with plot summary needing attention from March 2011
+39946361,Wikipedia articles incorporating text from the New International Encyclopedia with an unnamed parameter
+40665750,Wikipedia articles with possible conflicts of interest from October 2013
+43983704,Wikipedia articles needing time reference citations from October 2014
+36590923,Wikipedia articles needing factual verification from August 2012
+28763727,Wikipedia articles that are too technical from September 2010
+28765047,Wikipedia articles that are too technical from November 2009
+31628896,Wikipedia articles needing rewrite from May 2011
+40028802,Wikipedia articles incorporating text from the Nuttall Encyclopedia with a vb parameter
+40404726,Wikipedia articles needing rewrite from September 2013
+33609094,Wikipedia articles needing reorganization from November 2011
+45262345,Wikipedia articles needing page number citations from February 2015
+32250755,Wikipedia articles needing style editing from July 2011
+40665638,Wikipedia articles needing rewrite from October 2013
+24557330,Wikipedia articles needing context from December 2008
+39256943,Wikipedia articles needing reorganization from May 2013
+29801180,Wikipedia articles with possible conflicts of interest from December 2010
+40034159,Wikipedia articles incorporating a citation from Popular Science Monthly
+36590795,Wikipedia articles with possible conflicts of interest from August 2012
+11328717,FA-Class Wikipedia articles
+29015742,Wikipedia articles in need of updating from January 2008
+38071635,Wikipedia articles needing time reference citations from January 2013
+43702074,Wikipedia articles needing page number citations from September 2014
+20500415,Wikipedia articles incorporating text from the USGS Geographic Names Information System
+43702081,Wikipedia articles with plot summary needing attention from September 2014
+34992984,Wikipedia articles incorporating an LRPP-Bt template as an external link
+32581004,Wikipedia articles needing style editing from August 2011
+39815639,Wikipedia articles with plot summary needing attention from July 2013
+28814953,Wikipedia articles needing page number citations from April 2010
+22744000,Wikipedia articles needing rewrite from January 2008
+44580796,Wikipedia articles needing cleanup after translation from Malaysian
+33921216,Wikipedia articles that are too technical from December 2011
+10792330,Wikipedia articles with sourcing issues
+43437090,Wikipedia articles without plot summaries from August 2014
+20500089,Wikipedia articles incorporating text from the United States Department of State Background Notes
+31024525,Wikipedia articles needing factual verification from March 2011
+39815573,Wikipedia articles without plot summaries from July 2013
+28984659,Wikipedia articles in need of updating from May 2008
+31855514,Wikipedia articles that are too technical from November 2008
+38379154,Wikipedia articles needing reorganization from February 2013
+29938520,All Wikipedia articles written in Canadian English
+46274357,Wikipedia articles with citations needing edition from April 2015
+43337900,Wikipedia articles incorporating a citation from Collier's Encyclopedia
+42355815,Wikipedia articles needing context from April 2014
+42355785,Wikipedia articles needing rewrite from April 2014
+44259532,Wikipedia articles needing clarification from November 2014
+46274268,Wikipedia articles with plot summary needing attention from April 2015
+22900744,Wikipedia articles needing factual verification from April 2007
+21884512,Wikipedia articles needing clarification from February 2007
+26380840,Wikipedia articles with plot summary needing attention from March 2010
+28453318,Wikipedia articles with possible conflicts of interest from July 2009
+26014236,Wikipedia articles needing rewrite from February 2010
+24913047,Wikipedia articles with plot summary needing attention from November 2009
+29427054,Wikipedia articles needing style editing from November 2010
+43983543,Wikipedia articles needing style editing from October 2014
+42870294,Wikipedia articles incorporating text from the Whitehouse website
+20771174,Wikipedia articles incorporating text from the Biographical Directory of the United States Congress
+43702009,Wikipedia articles containing buzzwords from September 2014
+3790195,Wikipedia articles with off-topic sections
+28815158,Wikipedia articles needing page number citations from May 2008
+38345679,Monthly clean up category (Wikipedia articles needing editing for flag use) counter
+32580991,Wikipedia articles needing context from August 2011
+41506302,Wikipedia articles needing factual verification from January 2014
+34239888,Wikipedia articles needing reorganization from January 2012
+41794418,Wikipedia articles needing clarification from February 2014
+45527836,Wikipedia articles needing page number citations from March 2015
+42915117,Wikipedia articles that are too technical from June 2014
+34049706,Wikipedia articles incorporating a citation from the 1906 Jewish Encyclopedia with a Wikisource reference
+28452376,Wikipedia articles with possible conflicts of interest from July 2008
+38378957,Wikipedia articles that are too technical from February 2013
+28452383,Wikipedia articles with possible conflicts of interest from November 2008
+44896615,Wikipedia articles with possible conflicts of interest from January 2015
+30246012,Wikipedia articles needing style editing from January 2011
+36879016,Wikipedia articles needing style editing from September 2012
+39368608,Wikipedia articles incorporating a citation from Appleton's Cyclopedia with an unnamed parameter
+35273487,Wikipedia articles needing style editing from April 2012
+29626320,Wikipedia articles needing reorganization from March 2010
+33479577,Wikipedia articles without plot summaries from January 2010
+36878884,Wikipedia articles needing clarification from September 2012
+27900437,Wikipedia articles needing factual verification from July 2010
+29626274,Wikipedia articles needing reorganization from November 2007
+26774355,Wikipedia articles needing style editing from April 2010
+40665715,Wikipedia articles needing page number citations from October 2013
+38968379,Wikipedia articles that are too technical from April 2013
+29626290,Wikipedia articles needing reorganization from August 2008
+27554014,Wikipedia articles needing factual verification from June 2010
+22900613,Wikipedia articles needing factual verification from November 2007
+1331334,Wikipedia articles needing style editing
+41227583,Wikipedia articles in need of updating from December 2013
+39256983,Wikipedia articles with possible conflicts of interest from May 2013
+35638109,Wikipedia articles that use Malawian English
+43101539,Wikipedia articles needing cleanup after translation from Chinese
+38661482,Wikipedia articles that are too technical from March 2013
+45262296,Wikipedia articles needing context from February 2015
+38071659,Wikipedia articles needing style editing from January 2013
+28217249,Wikipedia articles needing rewrite from August 2010
+41794428,Wikipedia articles with possible conflicts of interest from February 2014
+43108202,All Wikipedia articles with unclear gender
+39465757,Wikipedia articles incorporating a citation from The American Cyclopaedia with an unnamed parameter
+26426095,Wikipedia articles needing factual verification from March 2010
+24894381,All Wikipedia articles with plot summary needing attention
+42915127,Wikipedia articles needing reorganization from June 2014
+44580866,Wikipedia articles needing cleanup after translation from Czech
+41506414,Wikipedia articles needing page number citations from January 2014
+31340578,Wikipedia articles needing page number citations from April 2011
+25624322,Wikipedia articles needing rewrite from January 2010
+39469470,Wikipedia articles incorporating text from EB9
+30265182,Wikipedia articles in need of updating from January 2011
+17222825,Wikipedia articles needing style editing from May 2008
+41506391,Wikipedia articles that are too technical from January 2014
+42915038,Wikipedia articles in need of updating from June 2014
+11637560,Wikipedia articles incorporating text from the World Factbook
+42915061,Wikipedia articles without plot summaries from June 2014
+23023443,Wikipedia articles needing style editing from June 2009
+46274397,Wikipedia articles without plot summaries from April 2015
+26837492,Wikipedia articles incorporating text from Kremlin.ru
+31024522,Wikipedia articles needing context from March 2011
+42355680,Wikipedia articles without plot summaries from April 2014
+33609085,Wikipedia articles with plot summary needing attention from November 2011
+44546956,Wikipedia articles needing clarification from December 2014
+31024417,Wikipedia articles that are too technical from March 2011
+44403335,All Wikipedia articles written in Irish English
+40404694,Wikipedia articles needing reorganization from September 2013
+39473879,Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica that includes an obsolete parameter
+32250753,Wikipedia articles needing rewrite from July 2011
+43239787,Wikipedia articles incorporating text from the 1922 EncyclopÃ¦dia Britannica with a wikisource parameter
+42069297,Wikipedia articles needing clarification from March 2014
+29626327,Wikipedia articles needing reorganization from June 2010
+38661640,Wikipedia articles needing context from March 2013
+42069238,Wikipedia articles needing style editing from March 2014
+38547984,Wikipedia articles with RID identifiers
+21962959,Wikipedia articles without patronymics
+37788098,Wikipedia articles needing factual verification from December 2012
+37787996,Wikipedia articles with possible conflicts of interest from December 2012
+5911338,Wikipedia articles with plot summary needing attention
+38379188,Wikipedia articles needing context from February 2013
+19123968,Wikipedia articles needing style editing from September 2008
+41794267,Wikipedia articles needing reorganization from February 2014
+35717931,Wikipedia articles incorporating a citation from the 1728 Cyclopaedia
+39534419,Wikipedia articles needing page number citations from June 2013
+28991340,Wikipedia articles with plot summary needing attention from October 2010
+21410969,Wikipedia articles needing clarification from March 2008
+38379056,Wikipedia articles needing page number citations from February 2013
+44579394,Wikipedia articles needing cleanup after translation from Catalan
+28817236,Wikipedia articles needing page number citations from November 2007
+24717871,Wikipedia articles incorporating text from the 1903 Encyclopaedia Biblica
+26014250,Wikipedia articles with plot summary needing attention from February 2010
+22742013,Wikipedia articles needing rewrite from April 2009
+40800688,Wikipedia articles with MusicBrainz identifiers
+28815695,Wikipedia articles needing page number citations from September 2009
+29626298,Wikipedia articles needing reorganization from December 2008
+24913045,Wikipedia articles needing style editing from November 2009
+31628772,Wikipedia articles that are too technical from May 2011
+43983534,Wikipedia articles without plot summaries from October 2014
+22900646,Wikipedia articles needing factual verification from December 2008
+43983541,Wikipedia articles that are too technical from October 2014
+22900653,Wikipedia articles needing factual verification from April 2009
+38661529,Wikipedia articles with possible conflicts of interest from March 2013
+42069212,Wikipedia articles in need of updating from March 2014
+29626271,Wikipedia articles needing reorganization from September 2007
+24557335,Wikipedia articles needing context from April 2009
+42069182,Wikipedia articles needing factual verification from March 2014
+27162973,Wikipedia articles needing factual verification from May 2010
+40530380,Wikipedia articles incorporating text from the Department of Foreign Affairs and Trade
+34912784,Wikipedia articles needing style editing from March 2012
+34239886,Wikipedia articles needing factual verification from January 2012
+34239895,Wikipedia articles with plot summary needing attention from January 2012
+43702079,Wikipedia articles needing copy edit from September 2014
+32581009,Wikipedia articles that are too technical from August 2011
+43437177,Wikipedia articles needing context from August 2014
+39815683,Wikipedia articles needing context from July 2013
+28452367,Wikipedia articles with possible conflicts of interest from April 2010
+41063640,Wikipedia articles under general sanctions
+28452374,Wikipedia articles with possible conflicts of interest from January 2008
+31931759,Wikipedia articles needing clarification from June 2011
+42623220,Wikipedia articles needing page number citations from May 2014
+40937748,Wikipedia articles that are too technical from November 2013
+40937580,Wikipedia articles needing clarification from November 2013
+23780267,Wikipedia articles with Citizendium counterparts
+35273478,Wikipedia articles in need of updating from April 2012
+35273494,Wikipedia articles with plot summary needing attention from April 2012
+33479575,Wikipedia articles without plot summaries from December 2009
+23702318,Wikipedia articles incorporating text from the Congressional Research Service
+31557030,Wikipedia articles incorporating a citation from the DGRG with no article parameter
+41227604,Wikipedia articles with plot summary needing attention from December 2013
+24557345,Wikipedia articles needing context from October 2009
+44403375,All Wikipedia articles written in British English
+41227620,Wikipedia articles that are too technical from December 2013
+36590902,Wikipedia articles containing buzzwords from August 2012
+22900620,Wikipedia articles needing factual verification from May 2008
+24175031,Wikipedia articles needing factual verification from September 2009
+45262317,Wikipedia articles needing copy edit from February 2015
+42069324,Wikipedia articles with plot summary needing attention from March 2014
+35675634,Wikipedia articles needing page number citations from May 2012
+31477708,Wikipedia articles incorporating text from the DCBL
+34973433,Wikipedia articles incorporating an LRPP-MP template without an unnamed parameter
+32920603,Wikipedia articles needing factual verification from September 2011
+26835416,Wikipedia articles incorporating text from Webb's Compendium of Irish Biography
+43702089,Wikipedia articles in need of updating from September 2014
+34571863,Wikipedia articles incorporating a citation from the DGRBM without a Wikisource reference
+20497197,Wikipedia articles incorporating text from the Library of Congress Country Studies
+11637769,Wikipedia articles incorporating text from the Federal Standard 1037C
+12578373,Wikipedia articles with plot summary needing attention from August 2007
+31516091,Wikipedia articles incorporating a citation from the Schaff-Herzog with a title parameter
+10792329,Wikipedia articles with content issues
+20259719,Wikipedia articles incorporating text from public domain works of the State of Florida
+21406038,Wikipedia articles needing clarification from October 2008
+36710428,Wikipedia articles incorporating a citation from the Schaff-Herzog
+42623286,Wikipedia articles in need of updating from May 2014
+39815545,Wikipedia articles in need of updating from July 2013
+40937692,Wikipedia articles needing page number citations from November 2013
+46274352,Wikipedia articles containing buzzwords from April 2015
+31628885,Wikipedia articles needing clarification from May 2011
+43280168,Wikipedia articles needing cleanup after translation from Georgian
+40404685,Wikipedia articles without plot summaries from September 2013
+22742037,Wikipedia articles needing rewrite from October 2008
+38968489,Wikipedia articles needing context from April 2013
+40937587,Wikipedia articles with possible conflicts of interest from November 2013
+23455227,Wikipedia articles needing factual verification from July 2009
+35047276,Wikipedia articles incorporating an LRPP-PC template as a citation
+29427069,Wikipedia articles with possible conflicts of interest from November 2010
+29626318,Wikipedia articles needing reorganization from January 2010
+29626279,Wikipedia articles needing reorganization from February 2008
+43702047,Wikipedia articles needing rewrite from September 2014
+29626295,Wikipedia articles needing reorganization from November 2008
+37500168,Wikipedia articles needing style editing from November 2012
+43702063,Wikipedia articles that are too technical from September 2014
+37788135,Wikipedia articles needing style editing from December 2012
+29835826,Wikipedia articles incorporating text from NOAA
+22900650,Wikipedia articles needing factual verification from February 2009
+21299553,Wikipedia articles incorporating text from the New International Encyclopedia
+30689615,Wikipedia articles needing factual verification from February 2011
+35675648,Wikipedia articles with possible conflicts of interest from May 2012
+41794304,Wikipedia articles that are too technical from February 2014
+33268708,Wikipedia articles needing reorganization from October 2011
+41506478,Wikipedia articles with possible conflicts of interest from January 2014
+26906971,Wikipedia articles incorporating text from the National Weather Service
+42915148,Wikipedia articles with plot summary needing attention from June 2014
+29015744,Wikipedia articles in need of updating from August 2008
+28816305,Wikipedia articles needing page number citations from June 2009
+37499921,Wikipedia articles needing context from November 2012
+21410967,Wikipedia articles needing clarification from April 2008
+34049503,Wikipedia articles incorporating a citation from the 1906 Jewish Encyclopedia
+28452355,Wikipedia articles with possible conflicts of interest from May 2010
+25254717,Wikipedia articles needing style editing from December 2009
+28452371,Wikipedia articles with possible conflicts of interest from May 2008
+43177412,Wikipedia articles with possible conflicts of interest from July 2014
+31747075,Portal-Class Wikipedia articles
+42355708,Wikipedia articles that are too technical from April 2014
+36879047,Wikipedia articles with possible conflicts of interest from September 2012
+29626335,Wikipedia articles needing reorganization from October 2010
+41863367,Wikipedia articles incorporating text from the 1922 EncyclopÃ¦dia Britannica
+29626289,Wikipedia articles needing reorganization from July 2008
+23674559,Wikipedia articles incorporating text from the Dictionary of National Biography Index and Epitome
+36590926,Wikipedia articles in need of updating from August 2012
+43983532,Wikipedia articles needing reorganization from October 2014
+24557342,Wikipedia articles needing context from August 2009
+34912775,Wikipedia articles in need of updating from March 2012
+29801176,Wikipedia articles needing rewrite from December 2010
+41227555,Wikipedia articles needing reorganization from December 2013
+32920597,Wikipedia articles needing clarification from September 2011
+37500053,Wikipedia articles without plot summaries from November 2012
+34239877,Wikipedia articles in need of updating from January 2012
+41794416,Wikipedia articles needing context from February 2014
+34900229,Wikipedia articles incorporating an LRPP template as an external link
+42491399,Wikipedia articles needing page number citations from July 2008
+42747922,Wikipedia articles needing page number citations from April 2007
+31931766,Wikipedia articles needing style editing from June 2011
+43437086,Wikipedia articles needing time reference citations from August 2014
+28980602,Wikipedia articles in need of updating from February 2010
+39815569,Wikipedia articles needing rewrite from July 2013
+44580574,Wikipedia articles needing cleanup after translation from Bengali
+43356490,Wikipedia articles incorporating a citation from SBDEL with an unnamed parameter
+30246010,Wikipedia articles needing rewrite from January 2011
+42623122,Wikipedia articles needing clarification from May 2014
+36879212,Wikipedia articles needing page number citations from September 2012
+14676797,Wikipedia articles needing style editing from August 2007
+28991338,Wikipedia articles needing style editing from October 2010
+35273492,Wikipedia articles that are too technical from April 2012
+23822730,Wikipedia articles needing factual verification from August 2009
+27900435,Wikipedia articles needing rewrite from July 2010
+45262331,Wikipedia articles needing factual verification from February 2015
+23475188,Wikipedia articles needing rewrite from July 2009
+42069315,Wikipedia articles needing page number citations from March 2014
+43101544,Wikipedia articles needing cleanup after translation from Japanese
+38265948,Wikipedia articles incorporating text from MNopedia
+35335757,Wikipedia articles citing Notitia Parliamentaria
+42069292,Wikipedia articles that are too technical from March 2014
+31091017,Wikipedia articles incorporating text from the United States Army Institute of Heraldry
+45262242,Wikipedia articles containing buzzwords from February 2015
+35988777,Wikipedia articles needing factual verification from June 2012
+34543568,Wikipedia articles needing reorganization from February 2012
+11637776,Wikipedia articles incorporating text from the Russian Biographical Dictionary
+38013843,Wikipedia articles incorporating text from the United States Fish and Wildlife Service
+32250636,Wikipedia articles that are too technical from July 2011
+7882240,Wikipedia articles needing romanized Korean
+22658788,Wikipedia articles incorporating text from the United States Army
+28658857,Wikipedia articles with possible conflicts of interest from September 2010
+32289629,Wikipedia articles containing buzzwords from January 2011
+25056127,Wikipedia articles incorporating text from A Compendium of the War of the Rebellion
+22560747,Wikipedia articles incorporating text from the National Archives and Records Administration
+40006925,Wikipedia articles needing cleanup after translation from Turkish
+28453741,Wikipedia articles with possible conflicts of interest from June 2007
+34690656,Wikipedia articles that use Trinidadian English
+37499945,Wikipedia articles needing clarification from November 2012
+28984645,Wikipedia articles in need of updating from September 2009
+40937683,Wikipedia articles needing factual verification from November 2013
+1729370,Wikipedia articles with nonstandard pronunciation
+39127925,Wikipedia articles incorporating a citation from the Encyclopedia Americana
+46274336,Wikipedia articles needing clarification from April 2015
+40826602,Wikipedia articles incorporating text from public domain works of the Congressional Budget Office
+44546800,Wikipedia articles needing reorganization from December 2014
+33609090,Wikipedia articles needing page number citations from November 2011
+40116015,Wikipedia articles needing factual verification from August 2013
+35047267,Wikipedia articles incorporating an LRPP-PC template as an external link
+46274254,Wikipedia articles that are too technical from April 2015
+7850513,Wikipedia articles needing hanja
+40665786,Wikipedia articles that are too technical from October 2013
+42623152,Wikipedia articles needing copy edit from May 2014
+29626316,Wikipedia articles needing reorganization from December 2009
+43983556,Wikipedia articles needing clarification from October 2014
+29626332,Wikipedia articles needing reorganization from September 2010
+28981600,Wikipedia articles in need of updating from October 2009
+44259406,Wikipedia articles without plot summaries from November 2014
+28980145,Monthly clean up category (Wikipedia articles in need of updating) counter
+45262397,Wikipedia articles needing editing for flag use from February 2015
+29626293,Wikipedia articles needing reorganization from September 2008
+28771266,Wikipedia articles that are too technical from July 2010
+24174736,Wikipedia articles needing clarification from September 2009
+22900625,Wikipedia articles needing factual verification from October 2007
+35988926,Wikipedia articles in need of updating from June 2012
+22900641,Wikipedia articles needing factual verification from October 2008
+35675639,Wikipedia articles needing rewrite from May 2012
+39257029,Wikipedia articles with plot summary needing attention from May 2013
+24894232,All Wikipedia articles needing context
+16680054,Wikipedia articles needing style editing from April 2008
+42915139,Wikipedia articles needing page number citations from June 2014
+11328519,High-importance Wikipedia articles
+44580878,Wikipedia articles needing cleanup after translation from Lithuanian
+42915162,Wikipedia articles with possible conflicts of interest from June 2014
+44580894,Wikipedia articles needing cleanup after translation from Cambodian
+43437156,Wikipedia articles needing reorganization from August 2014
+43437172,Wikipedia articles needing page number citations from August 2014
+30714382,Wikipedia articles needing reorganization from February 2011
+28980619,Wikipedia articles in need of updating from March 2009
+22638258,Wikipedia articles with plot summary needing attention from May 2009
+11328437,Wikipedia articles by importance
+38379061,Wikipedia articles containing buzzwords from February 2013
+21411024,Wikipedia articles needing clarification from December 2006
+44896539,Wikipedia articles needing style editing from January 2015
+42355706,Wikipedia articles needing copy edit from April 2014
+43177373,Wikipedia articles with plot summary needing attention from July 2014
+43177380,Wikipedia articles in need of updating from July 2014
+40404825,Wikipedia articles needing context from September 2013
+36590976,Wikipedia articles needing page number citations from August 2012
+39204811,Wikipedia articles incorporating a citation from the New International Encyclopedia
+28452112,Wikipedia articles with possible conflicts of interest from July 2010
+45527740,Wikipedia articles that are too technical from March 2015
+39226641,Wikipedia articles with faulty authority control identifiers (ORCID)
+28451757,Wikipedia articles with possible conflicts of interest from January 2010
+24824321,All articles lacking in-text citations
+24816348,All articles with peacock terms
+10837655,All articles with dead external links
+32103732,All articles that are too technical
+24805843,All articles with trivia sections
+36194828,All articles needing link rot cleanup
+12764765,All articles with broken or outdated citations
+34783872,All articles with close paraphrasing
+24816560,All articles with improper non-free content
+24815718,All articles needing additional references
+45048098,All articles with links needing disambiguation
+24815679,All articles lacking reliable references
+29005390,All articles needing cleanup
+29263234,All articles with specifically marked weasel-worded phrases
+38290491,All articles needing more precise reference URLs
+24125369,All articles with topics of unclear notability
+30904525,All articles with broken links to citations
+8934150,All articles to be expanded
+24815980,All articles needing coordinates
+24816577,All articles needing expert attention
+8151067,All articles lacking sources
+16973997,All articles needing style editing
+36919385,All articles with too many wikilinks
+36665871,All articles with HTML markup
+9329647,All articles with unsourced statements
+13856301,All articles awaiting Irish translations
+24815934,All articles with minor POV problems
+18154579,All articles to be merged
+36246897,All articles with problems regarding the non-free content criteria
+4997739,All articles proposed for deletion
+39276032,All articles with empty sections
+22975589,All articles to be split
+44964533,All articles with failed verification
+18507173,All articles containing potentially dated statements
+37158931,All articles with too few wikilinks
