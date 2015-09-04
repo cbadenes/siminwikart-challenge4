@@ -1,1 +1,0 @@
-To be included: the slides of the challenge.
