@@ -24,7 +24,7 @@ object CreateTopicModel {
 
     // Spark Configuration
     val conf = new SparkConf().
-      setMaster("local[4]").
+      setMaster("local").
       setAppName("Local Spark Example").
       set("spark.executor.memory", "8g").
       set("spark.driver.maxResultSize","4g")
@@ -36,15 +36,16 @@ object CreateTopicModel {
 
     // LDA Settings
     LDASettings.setTopics(10);
-    LDASettings.setAlpha(6.1);
+    LDASettings.setAlpha(4.1);
     LDASettings.setBeta(1.1);
     LDASettings.setMaxIterations(200);
 
     val file = new File("text/model")
     if (file.exists) FileUtils.cleanDirectory(file)
 
-    val input: RDD[(String,String)]  = sc.textFile("text/wikipedia/articles_body.csv").
-      map(x=>x.split("\",\"")).filter(x=>x.size>1).map(x=>(x(0)+"\"","\""+x(1)))
+    val input: RDD[(String,String)]  = sc.textFile("text/wikipedia/selected_articles.csv").
+      map(x=>x.split("\",\"")).filter(x=>x.size>1).filter(x=> !x(1).startsWith("REDIRECT")).map(x=>(x(0)+"\"","\""+x(1)))
+    println("input size: " + input.collect.size)
 
     val author: Author  = Author("oeg.es/edbt/author/000001","Wiki","Pedia")
 
@@ -58,9 +59,12 @@ object CreateTopicModel {
       bagOfWords  = LuceneTokenizer(x._2),
       resources   = Seq.empty)}
 
+    println("regularResources size: " + regularResources.collect.size)
+
     // Conceptual Resources
     println("creating conceptual resources..")
     val conceptualResources : RDD[ConceptualResource] = regularResources.map(ConceptualResource(_))
+    println("conceptualResources size: " + conceptualResources.collect.size)
 
     // Conceptual Space
     println("creating a conceptual space..")
@@ -71,12 +75,13 @@ object CreateTopicModel {
 
     println("reading semantic resources..")
     val semanticResources : RDD[TopicalResource] = topicSpace.topicalResources;
+    println("semanticResources size: " + semanticResources.collect.size)
 
     println("saving semantic resources..")
     semanticResources.saveAsObjectFile("text/model/lda-sr")
 
     // Distribution of words by topics
-    val topics: Array[(Array[Int], Array[Double])] = topicSpace.model.ldaModel.describeTopics()
+    val topics = topicSpace.model.ldaModel.describeTopics()
 
     val wordsOfTopics : Array[Array[String]] = topics.map(x=>x._1.map(y=>conceptualSpace.vocabulary.wordsByKeyMap.getOrElse(y,"-error-")))
 

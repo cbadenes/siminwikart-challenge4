@@ -19,7 +19,6 @@ import scala.collection.Map
  */
 object CalculateSimilarity {
 
-
   def main(args: Array[String]): Unit = {
 
     // Spark Configuration
@@ -34,29 +33,29 @@ object CalculateSimilarity {
 
     val start = System.currentTimeMillis
 
-    val BARACK_OBAMA_ID = "2031880"
-    val SEVERO_OCHOA_ID = "42068564"
-
     println("loading semantic resources..")
     val semanticResources : RDD[TopicalResource] = sc.objectFile("text/model/lda-sr")
 
-    println(semanticResources)
+    val semArticles = semanticResources.collect.toList
 
-    val boSemanticResource = semanticResources.filter(x=>x.conceptualResource.resource.url.equals(BARACK_OBAMA_ID)).first
-    val soSemanticResource = semanticResources.filter(x=>x.conceptualResource.resource.url.equals(SEVERO_OCHOA_ID)).first
+    val articles = List("507433","240390","2484564","2150841").
+      map(x=>semArticles.filter(y=>y.conceptualResource.resource.url.equals(x))(0))
 
     // Show distribution of topics
-    println(s"Topic Distribution from '$BARACK_OBAMA_ID': " + boSemanticResource.topics.distribution.toList )
-    println(s"Topic Distribution from '$SEVERO_OCHOA_ID': " + soSemanticResource.topics.distribution.toList )
+    articles.foreach{case article=>
+      println(s"Topic Distribution from '"+article.conceptualResource.resource.url+"': "
+        + article.topics.distribution.toList )
+    }
 
     // Calculate the similarity
-    val similarity = TopicsSimilarity(boSemanticResource.topics,soSemanticResource.topics)
-    println(s"The similarity between '$BARACK_OBAMA_ID' and '$SEVERO_OCHOA_ID' is $similarity")
+    articles.flatMap(x=>articles.map(y=>(x,y))).
+      map(x=>(x._1,x._2,TopicsSimilarity(x._1.topics,x._2.topics))).
+      foreach(x=>println(s"The similarity between '"+x._1.conceptualResource.resource.url
+      +"' and '"+x._2.conceptualResource.resource.url+"' is " + x._3))
 
     val end = System.currentTimeMillis
 
     println("elapsed time: " + (end-start) + " msecs")
-
 
   }
 
