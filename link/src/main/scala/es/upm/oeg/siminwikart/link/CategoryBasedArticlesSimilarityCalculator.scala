@@ -7,7 +7,7 @@ import org.apache.log4j.{Level, Logger}
 import org.apache.spark.{SparkContext, SparkConf}
 import org.apache.spark.rdd.RDD
 
-class LinksBasedArticlesSimilarityCalculator {
+class CategoryBasedArticlesSimilarityCalculator {
   
   def getSetOfLinks(articlesLinks:RDD[Array[String]], articleID : String) 
   : Set[String] = {
@@ -49,7 +49,7 @@ class LinksBasedArticlesSimilarityCalculator {
 /**
  * Created by fpriyatna on Sept 3rd, 2015
  */
-object LinksBasedArticlesSimilarityCalculator {
+object CategoryBasedArticlesSimilarityCalculator {
 
 //  def apply (corpus: RDD[RegularResource], topics: Integer, alpha: Double, beta: Double, maxIt: Integer): (ConceptsSpace,TopicsSpace)= {
 
