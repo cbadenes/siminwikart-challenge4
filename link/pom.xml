@@ -12,4 +12,14 @@
         <artifactId>siminwikart-challenge4</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>    
+
+<dependencies>    
+    <dependency>
+    <groupId>com.sparsity</groupId>
+    <artifactId>sparkseejava</artifactId>
+    <version>5.2.0</version>
+	</dependency>
+</dependencies>
+
+
 </project>

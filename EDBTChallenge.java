@@ -21,25 +21,33 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.Vector;
+import org.apache.logging.log4j.core.Logger;
 import sun.org.mozilla.javascript.TopLevel;
-
+//import org.apache.log4j.PropertyConfigurator;
+//import org.apache.log4j.Logger;
+        
 /**
  *
  * @author freddy,dani
  */
 public class EDBTChallenge {
     private Session session = null;
+    private Logger logger = null;
     
     String badCategoriesFileURL = "wikipedia_bad_categories.txt";
-    private Set<Long> badCategories = null;
+    private List<Long> badCategories = null;
     
     public EDBTChallenge(Session session) {
         this.session = session;
+        //PropertyConfigurator.configure("log4j.properties");
+        //this.logger = Logger.getLogger(this.getClass());
     }
+    
     public static void main(String[] args)throws FileNotFoundException, Throwable{
         long[] articlesArray = {507433,240390,2484564,2150841};
         Set<Long> articlesSet = new HashSet<Long>();
@@ -50,34 +58,36 @@ public class EDBTChallenge {
 	final Database db = sparksee.open("./data/wikipedia6.gdb", false);
 	final Session session = db.newSession();
         //iker casillas: 507433. Fernando Alonso: 240390
+        //Akiko: 
         
         final EDBTChallenge challenge = new EDBTChallenge(session);
         String badCategoriesFileURL = "wikipedia_bad_categories.txt";
-        Set<Long> badCategories = challenge.getBadCategories(badCategoriesFileURL);
+        List<Long> badCategories = challenge.getBadCategories(badCategoriesFileURL);
         challenge.badCategories = badCategories;
-        //System.out.println("badCategories = " + badCategories);
+        System.out.println("badCategories = " + badCategories);
         
-//        final Set<Long> commonCategories = challenge.getCommonCategories(507433,240390);
+//        final Set<Long> commonCategories = challenge.getCommonCategories(240390,240390);
 //        System.out.println("commonCategories = " + commonCategories);
 //        System.out.println("commonCategories.size = " + commonCategories.size());
         
         
-        //final Set<ArticlesSimilarity> articlesSimilarity = challenge.calculateSimilarity(articlesSet, 3);
-        //System.out.println("articlesSimilarity = " + articlesSimilarity);
-//        System.out.println("articlesSimilarity.size = " + articlesSimilarity.size());
+        final Set<ArticlesSimilarity> articlesSimilarity = challenge.calculateSimilarity(articlesSet, 3);
+        System.out.println("articlesSimilarity = " + articlesSimilarity);
+        //System.out.println("articlesSimilarity.size = " + articlesSimilarity.size());
         
-//        long[] articlesArray2 = {507433,240390};
+//        long[] articlesArray2 = {240390,240390};
 //        Set<Long> articlesSet2 = new HashSet<Long>();
 //        for(long articleID : articlesArray2) {articlesSet2.add(new Long(articleID));}
 //        final Set<ArticlesSimilarity> articlesSimilarity2 = challenge.calculateSimilarity(articlesSet2, 1);
 //        System.out.println("articlesSimilarity2 = " + articlesSimilarity2);
         
-
-//          Set<Long> categories = challenge.getCategories(507433);
+//          Set<Long> categories = challenge.getCategories(240390);
 //          System.out.println("categories = " + categories);
-        final Set<Long> commonCategories = challenge.getCommonCategories(240390,507433, 1);
-        System.out.println("commonCategories = " + commonCategories);
-        System.out.println("commonCategories.size = " + commonCategories.size());
+//          System.out.println("categories.size = " + categories.size());
+          
+//        final Set<Long> commonCategories = challenge.getCommonCategories(240390,240390, 0);
+//        System.out.println("commonCategories = " + commonCategories);
+//        System.out.println("commonCategories.size = " + commonCategories.size());
 //
 //        final Set<Long> categories = challenge.getCategories(507433);
 //        System.out.println("categories = " + categories);
@@ -128,10 +138,19 @@ public class EDBTChallenge {
         final long art1OID = g.findObject(artId, v.setLong(art1));
         final Objects categoriesObjects = g.neighbors(art1OID, g.findType("hasCategory"), EdgesDirection.Any);
         final Set<Long> categoriesSet = EDBTChallenge.objectsToSet(categoriesObjects);
-        System.out.println("categoriesSet before cleaning = " + categoriesSet);
-        
+//        System.out.println("categoriesSet before cleaning = " + categoriesSet);
+//        System.out.println("this.badCategories = " + this.badCategories);
+        int beforeCleaningSize = categoriesSet.size();
         categoriesSet.removeAll(this.badCategories);
-        System.out.println("categoriesSet after cleaning = " + categoriesSet);
+        //System.out.println("categoriesSet after cleaning = " + categoriesSet);
+        int afterCleaningSize = categoriesSet.size();
+        int removedCategoriesSize = beforeCleaningSize - afterCleaningSize;
+        //if(removedCategoriesSize > 0) {
+            System.out.println("getCategories() article " + art1 + ", number of bad categories removed = " + removedCategoriesSize);
+        //}
+        
+        
+        
         return categoriesSet;
     }
 
@@ -139,14 +158,14 @@ public class EDBTChallenge {
         Set<Long> result = new HashSet<Long>();
         
         Set<Long> categories = this.getCategories(art1);
-        System.out.println("categories = " + categories);
+        //System.out.println("categories = " + categories);
         result.addAll(categories);
         for(Long category : categories) {
             Set<Long> parents = this.getParents(category, depth);
             //System.out.println("parents = " + parents);
             result.addAll(parents);
         }
-        System.out.println("categories = " + categories);
+        //System.out.println("categories = " + categories);
         
         return result;
     }
@@ -159,15 +178,25 @@ public class EDBTChallenge {
         final long art1OID = g.findObject(artId, v.setLong(art1));
         final long art2OID = g.findObject(artId, v.setLong(art2));
         final Objects cats1 = g.neighbors(art1OID, g.findType("hasCategory"), EdgesDirection.Any);
-        System.out.println("cats1 = " + cats1);
-        System.out.println("cats1.size = " + cats1.size());
+//        System.out.println("cats1 = " + cats1);
+//        System.out.println("cats1.size = " + cats1.size());
 
         final Objects cats2 = g.neighbors(art2OID, g.findType("hasCategory"), EdgesDirection.Any);
-        System.out.println("cats2 = " + cats2);
-        System.out.println("cats2.size = " + cats2.size());
+//        System.out.println("cats2 = " + cats2);
+//        System.out.println("cats2.size = " + cats2.size());
         
         cats1.intersection(cats2);
+        int commonCategoriesSizeBeforeCleaning = cats1.size();
+        
+        
         final Set<Long> commonCategories = EDBTChallenge.objectsToSet(cats1);
+        commonCategories.removeAll(this.badCategories);
+        int commonCategoriesSizeAfterCleaning = commonCategories.size();
+        int removedBadCategoriesSize = commonCategoriesSizeBeforeCleaning - commonCategoriesSizeAfterCleaning;
+        
+        if(removedBadCategoriesSize > 0) {
+            System.out.println(removedBadCategoriesSize + " bad categories removed from getCommonCategories()");
+        }
         
         return commonCategories;
     }
@@ -180,6 +209,7 @@ public class EDBTChallenge {
             for(Long aid2 : list2) {
                 Set<Long> commonCategories = this.getCommonCategories(aid1, aid2, depth);
                 double similarityValue = this.calculateSimilarity(aid1, aid2, depth);
+                
                 ArticlesSimilarity articleSimilarity = new ArticlesSimilarity(
                         aid1, aid2, commonCategories, similarityValue);
                 result.add(articleSimilarity);
@@ -206,15 +236,19 @@ public class EDBTChallenge {
         
         double similarityValue = arriba / abajo;
         //System.out.println("similarityValue.size = " + similarityValue);
+        //if(similarityValue > 1) {
+            System.out.println(aid1 + "," + aid2 + ":" + similarityValue);
+        //}
+        
         return similarityValue;
         
     }
     
-    private Set<Long> getBadCategories(String categoriesToFilter) {
+    private List<Long> getBadCategories(String categoriesToFilter) {
         if(this.badCategories != null) {
             return this.badCategories;
         } else {
-            Set<Long> badCategories = new HashSet<Long>();
+            List<Long> badCategories = new LinkedList<Long>();
 
             String line="";
             String[] articleAndCat={};
@@ -237,7 +271,7 @@ public class EDBTChallenge {
                     try {
                         badCategories.add(Long.parseLong(categoryId));
                     } catch (Exception e) {
-                        System.err.println("Error while parsing category id to long");
+                        //System.err.println("Error while parsing category id to Long : " + categoryId);
                     }
 
     //                if(articleAndCategories.containsKey(articleId)){
@@ -253,7 +287,18 @@ public class EDBTChallenge {
                 //ex.printStackTrace();
             }
             //System.out.println("Finished reading bad categories");
-            return badCategories;            
+            
+            List<Long> result = new LinkedList<Long>();
+            Graph g = this.session.getGraph();
+            for(Long badCategory : badCategories) {
+                final int typeCategory = g.findType("Category");
+                final int attrCategoryID = g.findAttribute(typeCategory, "category_id");
+                final Value v = new Value();
+                final long badCategoryOID = g.findObject(attrCategoryID, v.setLong(badCategory));                
+                result.add(badCategoryOID);
+            }
+        
+            return result;            
         }
     }
     
@@ -262,8 +307,15 @@ public class EDBTChallenge {
         final Graph g = this.session.getGraph();
         final Objects directParentsObjects = g.neighbors(categoryID, g.findType("subclass"), EdgesDirection.Outgoing);
         final Set<Long> directParents = EDBTChallenge.objectsToSet(directParentsObjects);
-        //System.out.println("directParents before cleaning = " + directParents);
+        final int directParentsSizeBeforeCleaning = directParents.size();
+//        System.out.println("directParents before cleaning = " + directParents);
+//        System.out.println("this.badCategories = " + this.badCategories);
         directParents.removeAll(this.badCategories);
+        final int directParentsSizeAfterCleaning = directParents.size();
+        final int removedParentsSize = directParentsSizeBeforeCleaning - directParentsSizeAfterCleaning;
+        if(removedParentsSize > 0) {
+            System.out.println("category : " + categoryID + " , number of bad categories removed = " + removedParentsSize);
+        }
         //System.out.println("directParents after cleaning = " + directParents);
         return directParents;
     }
@@ -308,16 +360,15 @@ public class EDBTChallenge {
         }
         
         public String toString() {
-            String commonCategoriesString ="{";
+            String commonCategoriesString ="";
             for(long commonCategory : commonCategories) {
                 commonCategoriesString += commonCategory + ",";
             }
             commonCategoriesString += "}";
             
             
-            return "article pair=(" + this.article1 + "," + this.article2 + ")" + ";weight=<" + this.similarityValue + ">;common categories=" + commonCategoriesString;
+            return "\n\narticle pair=(" + this.article1 + "," + this.article2 + ")" + ";\nweight=<" + this.similarityValue + ">;\ncommon categories=" + commonCategoriesString;
         }
     }
-
 }
 
